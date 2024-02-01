@@ -5,6 +5,7 @@ import Header from "../../components/Header";
 
 import larissa from "../../assets/img/larissa.png";
 import atendimento from "../../assets/img/atendimento.jpg";
+import logo2 from "../../assets/svg/logo2.svg";
 
 import AOS from "aos";
 
@@ -36,24 +37,14 @@ const Home = () => {
         <div className="container">
           <div className="row">
             <div className="col-lg-6 d-flex flex-column justify-content-center">
-              <h1 data-aos="fade-up">Bruno & Kamila</h1>
-              <h2 data-aos="fade-up" data-aos-delay="400">
-                Fisioterapia e quiropraxia
-              </h2>
               <div data-aos="fade-up" data-aos-delay="600">
-                <div className="text-center text-lg-start">
-                  <a
-                    href="#about"
-                    className="btn-get-started scrollto d-inline-flex align-items-center justify-content-center align-self-center"
-                  >
-                    <span className="about-link">Saiba mais</span>
-                    <i className="bi bi-arrow-right"></i>
-                  </a>
+                <div className="logo2">
+                  <img src={logo2} className="img-fluid" alt="" />
                 </div>
               </div>
             </div>
             <div className="col-lg-6 ">
-              <img src={Logo} className="img-fluid" alt="" />
+              {/* <img src={Logo} className="img-fluid" alt="" /> */}
             </div>
           </div>
         </div>
