@@ -12,6 +12,8 @@ import "./styles.scss";
 import { Row, Col } from "react-bootstrap";
 import { Link } from "react-router-dom";
 
+import Logo from "../../assets/svg/logo.svg";
+
 const Home = () => {
   const mapsSrc = `https://maps.google.com/maps?q=${"R. Luiz Alfredo Falcão Bauer, 174 - Jardim Shangai, Campinas - SP, 13056-642".replaceAll(
     " ",
@@ -34,7 +36,7 @@ const Home = () => {
         <div className="container">
           <div className="row">
             <div className="col-lg-6 d-flex flex-column justify-content-center">
-              <h1 data-aos="fade-up">Larissa Acipreste</h1>
+              <h1 data-aos="fade-up">Bruno & Kamila</h1>
               <h2 data-aos="fade-up" data-aos-delay="400">
                 Fisioterapia e quiropraxia
               </h2>
@@ -50,8 +52,8 @@ const Home = () => {
                 </div>
               </div>
             </div>
-            <div className="col-lg-6 hero-img">
-              <img src={larissa} className="img-fluid" alt="" />
+            <div className="col-lg-6 ">
+              <img src={Logo} className="img-fluid" alt="" />
             </div>
           </div>
         </div>

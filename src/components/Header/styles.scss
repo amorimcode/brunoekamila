@@ -16,7 +16,8 @@
   .logo {
     line-height: 0;
     img {
-      max-height: 100px;
+      max-height: 200px;
+      margin: -100px;
     }
   }
 }
@@ -47,7 +48,7 @@
     align-items: center;
     justify-content: space-between;
     padding: 10px 0 10px 30px;
-    font-family: "Nunito", sans-serif;
+    font-family: "Cardo";
     font-size: 16px;
     font-weight: 700;
     color: $base-color;
@@ -58,7 +59,7 @@
       align-items: center;
       justify-content: space-between;
       padding: 10px 0 10px 30px;
-      font-family: "Nunito", sans-serif;
+      font-family: "Cardo";
       font-size: 16px;
       font-weight: 700;
       color: $base-color;
