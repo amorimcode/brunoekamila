@@ -1,0 +1,36 @@
+@import "../../styles/global.scss";
+
+html {
+  background-color: $color_3 !important;
+}
+.posts-page {
+  min-height: 100vh;
+
+  a {
+    color: $base-color !important;
+    text-decoration: none;
+  }
+
+  h1 {
+    font-weight: bold;
+    color: $base-color;
+    margin-bottom: 24px;
+  }
+
+  ul,
+  a {
+    list-style-type: none;
+    text-decoration: none;
+  }
+
+  li {
+    font-family: Inter;
+    margin: 5px;
+  }
+
+  .container {
+    .posts {
+      margin-left: 5px;
+    }
+  }
+}

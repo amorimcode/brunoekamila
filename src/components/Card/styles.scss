@@ -1,0 +1,16 @@
+@import "../../styles/global.scss";
+
+.card {
+  width: 19rem;
+
+  .card-img-top {
+    height: 15rem;
+    object-fit: contain;
+  }
+
+  .card-body {
+    a {
+      color: $color_3 !important;
+    }
+  }
+}
