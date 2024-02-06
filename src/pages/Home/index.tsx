@@ -14,12 +14,15 @@ import { Row, Col } from "react-bootstrap";
 import { Link } from "react-router-dom";
 
 import Logo from "../../assets/svg/logo.svg";
+import Countdown from "../../components/Countdown";
 
 const Home = () => {
   const mapsSrc = `https://maps.google.com/maps?q=${"R. Luiz Alfredo Falcão Bauer, 174 - Jardim Shangai, Campinas - SP, 13056-642".replaceAll(
     " ",
     "+"
   )}&output=embed`;
+
+  const marriageDate = new Date("2024-10-12T18:00:00");
 
   useEffect(() => {
     AOS.init({
@@ -40,6 +43,7 @@ const Home = () => {
               <div data-aos="fade-up" data-aos-delay="600">
                 <div className="logo2">
                   <img src={logo2} className="img-fluid" alt="" />
+                  <Countdown targetDate={marriageDate} />
                 </div>
               </div>
             </div>

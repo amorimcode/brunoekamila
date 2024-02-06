@@ -1,5 +1,37 @@
 @import "../../styles/global.scss";
 
+/* Countdown.css */
+
+.countdown-container {
+  display: flex;
+  justify-content: space-between;
+  width: 300px;
+}
+
+.square {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 80px;
+  height: 80px;
+  background-color: $base-color-darker; /* Cor de fundo do quadrado */
+  border-radius: 10px; /* Borda arredondada */
+  margin: 5px; /* Espaçamento entre os quadrados */
+}
+
+.value {
+  font-size: 24px;
+  font-weight: bold;
+  color: #ffffff; /* Cor do texto dentro do quadrado */
+}
+
+.unit {
+  font-size: 12px;
+  color: #ffffff; /* Cor do texto da unidade dentro do quadrado */
+}
+
+
 .hero {
   width: 100%;
   height: 100vh;
@@ -251,12 +283,15 @@
 
 
 .logo2 {
+  align-items: center;
+  justify-content: center;
+
 
 
 
   img {
     width: 800px;
     align-self: flex-start;
-    margin: -150px
+    margin: -130px
   }
 }
