@@ -43,7 +43,9 @@ const Home = () => {
               <div data-aos="fade-up" data-aos-delay="600">
                 <div className="logo2">
                   <img src={logo2} className="img-fluid" alt="" />
-                  <Countdown targetDate={marriageDate} />
+                  <div className="count">
+                    <Countdown targetDate={marriageDate} />
+                  </div>
                 </div>
               </div>
             </div>
