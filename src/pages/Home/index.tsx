@@ -17,7 +17,7 @@ import Logo from "../../assets/svg/logo.svg";
 import Countdown from "../../components/Countdown";
 
 const Home = () => {
-  const mapsSrc = `https://maps.google.com/maps?q=${"R. Luiz Alfredo Falcão Bauer, 174 - Jardim Shangai, Campinas - SP, 13056-642".replaceAll(
+  const mapsSrc = `https://maps.google.com/maps?q=${"R. Pastor Virgílio Mota dos Reis Pessoa, 75 - Jardim Vista Alegre, Campinas - SP, 13056-531".replaceAll(
     " ",
     "+"
   )}&output=embed`;
@@ -63,14 +63,25 @@ const Home = () => {
         data-aos="fade-up"
         data-aos-delay="400"
       >
-        <div className="container" data-aos="fade-up">
+        <div
+          className="container"
+          data-aos="fade-up"
+          style={{
+            borderRadius: "4px",
+          }}
+        >
           <div className="row gx-0">
             <div
               className="col-lg-6 d-flex flex-column justify-content-center"
               data-aos="fade-up"
               data-aos-delay="200"
             >
-              <div className="content">
+              <div
+                className="content"
+                style={{
+                  borderRadius: "4px",
+                }}
+              >
                 <h3>Sobre</h3>
                 <h2>
                   O objetivo do meu trabalho é cuidar de você com todo cuidado e
@@ -102,17 +113,17 @@ const Home = () => {
           <div className="content">
             <Row>
               <Col>
-                <h3>Localização</h3>
+                <h3>Localização da cerimônia</h3>
                 <h2>
-                  R. Luiz Alfredo Falcão Bauer, 174 - Jardim Shangai, Campinas -
-                  SP, 13056-642
+                  R. Pastor Virgílio Mota dos Reis Pessoa, 75 - Jardim Vista
+                  Alegre, Campinas - SP, 13056-531
                 </h2>
-                <p>
+                {/* <p>
                   Nosso consultório está localizado no Jardim Shangai, próximo a
                   garagem da URCA na região do Ouro Verde, contando com um
                   ambiente confortável e seguro preparado especialmente para
                   receber você.
-                </p>
+                </p> */}
               </Col>
               <Col>
                 <div id="maps">
@@ -130,38 +141,43 @@ const Home = () => {
       </section>
 
       <section id="contact" data-aos="fade-up" data-aos-delay="400">
-        <div className="container">
+        <div
+          className="container"
+          style={{
+            borderRadius: "4px",
+          }}
+        >
           <h2>Contato</h2>
           <div className="content">
             <div className="icons">
-              <a
+              {/* <a
                 href="https://www.facebook.com/laaacipreste.fisio"
                 target="_blank"
                 rel="noreferrer"
               >
                 <i className="fab fa-facebook fa-lg"></i>
-              </a>
+              </a> */}
               <a
-                href="https://instagram.com/laaacipreste.fisio?utm_medium=copy_link"
+                href="https://instagram.com/xmorim?utm_medium=copy_link"
                 target="_blank"
                 rel="noreferrer"
               >
                 <i className="fab fa-instagram fa-lg"></i>
               </a>
               <a
-                href="https://api.whatsapp.com/send?phone=5519996985985&text=Ol%C3%A1%2C+gostaria+de+agendar+uma+avalia%C3%A7%C3%A3o"
+                href="https://api.whatsapp.com/send?phone=5519991123574"
                 target="_blank"
                 rel="noreferrer"
               >
                 <i className="fab fa-whatsapp fa-lg"></i>
               </a>
-              <a
+              {/* <a
                 href="https://g.co/kgs/jJvmpa"
                 target="_blank"
                 rel="noreferrer"
               >
                 <i className="fab fa-google fa-lg"></i>
-              </a>
+              </a> */}
             </div>
             <h3>Agende seu horário ou avaliação conosco!</h3>
           </div>

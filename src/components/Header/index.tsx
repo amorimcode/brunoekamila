@@ -75,7 +75,7 @@ const Header = () => {
               <a
                 className="getstarted scrollto"
                 target="_blank"
-                href="https://api.whatsapp.com/send?phone=5519996985985&text=Ol%C3%A1%2C+gostaria+de+agendar+uma+avalia%C3%A7%C3%A3o"
+                href="https://api.whatsapp.com/send?phone=5519991123574"
                 rel="noreferrer"
               >
                 Whatsapp <i className="fab fa-whatsapp"></i>
@@ -119,7 +119,7 @@ const Header = () => {
           <a
             className="whatsapp-button"
             target="_blank"
-            href="https://api.whatsapp.com/send?phone=5519996985985&text=Ol%C3%A1%2C+gostaria+de+agendar+uma+avalia%C3%A7%C3%A3o"
+            href="https://api.whatsapp.com/send?phone=5519991123574"
             rel="noreferrer"
           >
             Whatsapp <i className="fab fa-whatsapp"></i>
