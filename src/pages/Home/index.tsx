@@ -38,7 +38,7 @@ const Home = () => {
       <Header />
       <section id="inicio" className="hero d-flex align-items-center">
         <div className="container">
-          <div className="row">
+          <div className="row content">
             <div className="col-lg-6 d-flex flex-column justify-content-center">
               <div data-aos="fade-up" data-aos-delay="600">
                 <div className="logo2">
@@ -47,8 +47,11 @@ const Home = () => {
                 </div>
               </div>
             </div>
-            <div className="col-lg-6 ">
-              {/* <img src={Logo} className="img-fluid" alt="" /> */}
+            <div className="col-lg-4 text-center verses">
+              <h5>Colossenses 3:14</h5>
+              <span>
+                Acima de tudo, porém, revistam-se do amor, que é o elo perfeito.
+              </span>
             </div>
           </div>
         </div>
