@@ -181,7 +181,7 @@ const Home = () => {
                 <i className="fab fa-google fa-lg"></i>
               </a> */}
             </div>
-            <h3>Agende seu horário ou avaliação conosco!</h3>
+            <h3>Qualquer dúvida entre em contato</h3>
           </div>
         </div>
       </section>
