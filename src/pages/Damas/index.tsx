@@ -5,6 +5,8 @@ import "./styles.scss";
 import damas from "../../assets/img/damas.jpeg";
 
 const Damas = () => {
+  const isMobile = window.innerWidth < 768;
+
   return (
     <>
       <Header />
@@ -65,7 +67,7 @@ const Damas = () => {
           <img
             src={damas}
             style={{
-              width: "22rem",
+              width: isMobile ? "100%" : "22rem",
               borderRadius: "8px",
             }}
           />

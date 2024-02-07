@@ -6,6 +6,8 @@ import madrinhas from "../../assets/img/madrinhas.jpeg";
 import padrinho from "../../assets/img/padrinho.jpeg";
 
 const Padrinhos = () => {
+  const isMobile = window.innerWidth < 768;
+
   return (
     <>
       <Header />
@@ -15,7 +17,7 @@ const Padrinhos = () => {
           <h1>Queridos Padrinhos</h1>
 
           <p>
-            Queridos padrinhos, obrigado por aceitarem nosso convite. Ficamos
+            Queridos padrinhos, obrigad por aceitarem nosso convite. Ficamos
             imensamente felizes por compartilhar esse momento especial, não
             seria o mesmo sem vocês!
           </p>
@@ -72,7 +74,7 @@ const Padrinhos = () => {
           <img
             src={madrinhas}
             style={{
-              width: "22rem",
+              width: isMobile ? "100%" : "22rem",
               borderRadius: "8px",
             }}
           />
@@ -89,7 +91,7 @@ const Padrinhos = () => {
           <img
             src={padrinho}
             style={{
-              width: "22rem",
+              width: isMobile ? "100%" : "22rem",
               borderRadius: "8px",
             }}
           />
