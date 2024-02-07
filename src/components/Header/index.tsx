@@ -72,6 +72,12 @@ const Header = () => {
               </Link>
             </li>
 
+            <li>
+              <Link className="nav-link scrollto" to="/damas">
+                Damas de honra
+              </Link>
+            </li>
+
             {/* <li>
               <Link className="nav-link scrollto" to="/posts">
                 Posts

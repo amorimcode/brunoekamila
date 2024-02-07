@@ -2,20 +2,19 @@
 import Header from "../../components/Header";
 import "./styles.scss";
 
-import madrinhas from "../../assets/img/madrinhas.jpeg";
-import padrinho from "../../assets/img/padrinho.jpeg";
+import damas from "../../assets/img/damas.jpeg";
 
-const Padrinhos = () => {
+const Damas = () => {
   return (
     <>
       <Header />
 
       <div className="padrinhos-page">
         <div className="container">
-          <h1>Queridos Padrinhos</h1>
+          <h1>Damas de honra</h1>
 
           <p>
-            Queridos padrinhos, obrigado por aceitarem nosso convite. Ficamos
+            Querida dama de honra, obrigado por aceitarem nosso convite. Ficamos
             imensamente felizes por compartilhar esse momento especial, não
             seria o mesmo sem vocês!
           </p>
@@ -34,25 +33,19 @@ const Padrinhos = () => {
           <i
             className="fas fa-circle fa-8x"
             style={{
-              color: "#54582f",
+              color: "#ff58ae",
             }}
           ></i>
           <i
             className="fas fa-circle fa-8x"
             style={{
-              color: "#86895d",
+              color: "#ff2c97",
             }}
           ></i>
           <i
             className="fas fa-circle fa-8x"
             style={{
-              color: "#bec092",
-            }}
-          ></i>
-          <i
-            className="fas fa-circle fa-8x"
-            style={{
-              color: "#f8fbca",
+              color: "#ef007e",
             }}
           ></i>
 
@@ -61,7 +54,7 @@ const Padrinhos = () => {
               marginTop: 100,
             }}
           >
-            Madrinha
+            Dama de honra
           </h3>
 
           <p>
@@ -70,7 +63,7 @@ const Padrinhos = () => {
           </p>
 
           <img
-            src={madrinhas}
+            src={damas}
             style={{
               width: "22rem",
               borderRadius: "8px",
@@ -79,22 +72,6 @@ const Padrinhos = () => {
 
           <br />
 
-          <h3>Padrinho</h3>
-
-          <p>
-            Para você, indicamos um terno preto, camisa branca e a gravata
-            também na cor verde oliva, combinando com sua acompanhante.
-          </p>
-
-          <img
-            src={padrinho}
-            style={{
-              width: "22rem",
-              borderRadius: "8px",
-            }}
-          />
-          <br />
-          <br />
           <br />
           <br />
         </div>
@@ -103,4 +80,4 @@ const Padrinhos = () => {
   );
 };
 
-export default Padrinhos;
+export default Damas;

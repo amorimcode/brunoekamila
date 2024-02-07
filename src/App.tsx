@@ -5,6 +5,7 @@ import Admin from "./pages/Admin";
 import Posts from "./pages/Posts";
 import Post from "./pages/Post";
 import Padrinhos from "./pages/Padrinhos";
+import Damas from "./pages/Damas";
 
 function App() {
   return (
@@ -15,6 +16,7 @@ function App() {
         <Route path="/posts/:id" element={<Post />} />
         <Route path="/admin" element={<Admin />} />
         <Route path="/padrinhos" element={<Padrinhos />} />
+        <Route path="/damas" element={<Damas />} />
       </Routes>
     </BrowserRouter>
   );
