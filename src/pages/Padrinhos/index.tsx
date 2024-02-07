@@ -17,7 +17,7 @@ const Padrinhos = () => {
           <h1>Queridos Padrinhos</h1>
 
           <p>
-            Queridos padrinhos, obrigad por aceitarem nosso convite. Ficamos
+            Queridos padrinhos, obrigado por aceitarem nosso convite. Ficamos
             imensamente felizes por compartilhar esse momento especial, não
             seria o mesmo sem vocês!
           </p>
