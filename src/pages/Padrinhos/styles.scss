@@ -1,0 +1,23 @@
+@import "../../styles/global.scss";
+@import "~react-image-gallery/styles/scss/image-gallery.scss";
+.padrinhos-page {
+  min-height: 100vh;
+  height: 100%;
+  background-color: $color_3;
+  .container {
+    height: 100%;
+
+   
+    h1 {
+      // font-weight: bold;
+      // color: $base-color;
+      margin-bottom: 24px;
+    }
+
+    h2 {
+
+      // color: $base-color;
+      margin-bottom: 24px;
+    }
+  }
+}

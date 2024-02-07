@@ -3,7 +3,7 @@ import React, { useEffect } from "react";
 
 import Header from "../../components/Header";
 
-import larissa from "../../assets/img/larissa.png";
+import calendar from "../../assets/svg/calendar.svg";
 import atendimento from "../../assets/img/atendimento.jpg";
 import logo2 from "../../assets/svg/logo2.svg";
 
@@ -84,17 +84,12 @@ const Home = () => {
                   borderRadius: "4px",
                 }}
               >
-                <h3>Sobre</h3>
-                <h2>
-                  O objetivo do meu trabalho é cuidar de você com todo cuidado e
-                  atenção que eu gostaria de ter durante um tratamento.
-                </h2>
+                <h3>SAVE THE DATE</h3>
+                <h2>12 de outubro de 2024</h2>
                 <p>
-                  Aqui você encontra reabilitação fisioterapêutica para traumas
-                  ortopédicos, auxílio e preparo para pré operatório, pós
-                  operatório imediato, pós operatório tardio e quiropraxia
-                  clínica. Tratamentos com foco em terapias manuais, um
-                  tratamento particular e individualizado!
+                  Estamos muito felizes em compartilhar esse momento tão
+                  especial com vocês. Contamos com a presença de todos para
+                  celebrar o amor e a união de duas vidas.
                 </p>
               </div>
             </div>
@@ -104,7 +99,15 @@ const Home = () => {
               data-aos="zoom-out"
               data-aos-delay="200"
             >
-              <img src={atendimento} className="img-fluid" alt="" />
+              <img
+                src={calendar}
+                className="img-fluid"
+                alt=""
+                style={{
+                  // borderRadius: "4px",
+                  width: "100%",
+                }}
+              />
             </div>
           </div>
         </div>

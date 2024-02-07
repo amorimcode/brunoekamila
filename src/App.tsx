@@ -4,6 +4,7 @@ import Home from "./pages/Home";
 import Admin from "./pages/Admin";
 import Posts from "./pages/Posts";
 import Post from "./pages/Post";
+import Padrinhos from "./pages/Padrinhos";
 
 function App() {
   return (
@@ -13,6 +14,7 @@ function App() {
         <Route path="/posts" element={<Posts />} />
         <Route path="/posts/:id" element={<Post />} />
         <Route path="/admin" element={<Admin />} />
+        <Route path="/padrinhos" element={<Padrinhos />} />
       </Routes>
     </BrowserRouter>
   );
