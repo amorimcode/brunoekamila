@@ -42,10 +42,12 @@ const Countdown: React.FC<CountdownProps> = ({ targetDate }) => {
   );
 
   return (
-    <div className="countdown-container">
-      {renderSquare(timeRemaining.days, "Dias")}
-      {renderSquare(timeRemaining.hours, "Horas")}
-      {renderSquare(timeRemaining.minutes, "Minutos")}
+    <div className="">
+      <div className="countdown-container">
+        {renderSquare(timeRemaining.days, "Dias")}
+        {renderSquare(timeRemaining.hours, "Horas")}
+        {renderSquare(timeRemaining.minutes, "Minutos")}
+      </div>
     </div>
   );
 };
