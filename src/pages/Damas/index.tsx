@@ -16,7 +16,7 @@ const Damas = () => {
           <h1>Damas de honra</h1>
 
           <p>
-            Querida dama de honra, obrigado por aceitarem nosso convite. Ficamos
+            Querida dama de honra, obrigado por aceitar nosso convite. Ficamos
             imensamente felizes por compartilhar esse momento especial, não
             seria o mesmo sem vocês!
           </p>
@@ -28,7 +28,7 @@ const Damas = () => {
             podemos nos atrasar, ok?
           </p>
 
-          <h3>Paletas de cores para você se inspirar</h3>
+          <h3>Paleta de cores para você se inspirar</h3>
 
           {/* corações coloridos */}
 

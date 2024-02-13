@@ -29,7 +29,7 @@ const Padrinhos = () => {
             podemos nos atrasar, ok?
           </p>
 
-          <h3>Paletas de cores para você se inspirar</h3>
+          <h3>Paleta de cores para você se inspirar</h3>
 
           {/* corações coloridos */}
 

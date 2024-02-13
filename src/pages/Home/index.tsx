@@ -49,7 +49,14 @@ const Home = () => {
                 </div>
               </div>
             </div>
-            <div className="col-lg-4 text-center verses">
+            <div
+              className="col-lg-4 text-center verses"
+              style={
+                {
+                  // selection color
+                }
+              }
+            >
               <h5>Colossenses 3:14</h5>
               <span>
                 Acima de tudo, porém, revistam-se do amor, que é o elo perfeito.
