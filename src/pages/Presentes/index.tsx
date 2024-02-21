@@ -187,13 +187,26 @@ const Presentes = () => {
       <Header />
       <div className="posts-page">
         <div className="container text-center">
-          <h1>Lista de presentes</h1>
+          <div
+            style={{
+              width: "70%",
+              textAlign: "center",
+              alignContent: "center",
+              alignItems: "center",
+              margin: "0 auto",
+            }}
+          >
+            <h1>Lista de presentes</h1>
 
-          <p>
-            Preparamos esta lista de presentes, sintam-se à vontade para nos
-            presentearem da forma que acharem melhor e mais viável. Essa lista é
-            apenas uma sugestão!
-          </p>
+            <p>
+              Preparamos esta lista de presentes, sintam-se à vontade para nos
+              presentearem da forma que acharem melhor e mais viável. Essa lista
+              é apenas uma sugestão!
+            </p>
+
+            <br />
+            <br />
+          </div>
 
           <Masonry
             breakpointCols={breakpointColumnsObj}
