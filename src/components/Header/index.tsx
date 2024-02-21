@@ -158,6 +158,12 @@ const Header = () => {
                 Damas de honra
               </Link>
             </li>
+
+            <li>
+              <Link className="nav-link scrollto" to="/lista-de-presentes">
+                Lista de presentes
+              </Link>
+            </li>
           </ul>
           <a
             className="whatsapp-button"
