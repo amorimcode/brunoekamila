@@ -8,6 +8,7 @@ type CardProps = {
   images: string[];
   foto?: string;
   link?: string;
+  price?: string;
 };
 
 const Card = ({ title, link, description, foto }: CardProps) => {
@@ -24,8 +25,15 @@ const Card = ({ title, link, description, foto }: CardProps) => {
       />
       <div className="card-body">
         <h5 className="card-title">{title}</h5>
-        {/* <p className="card-text">{description.substring(0, 100)}...</p> */}
-        <a href={link} target="_black" className="btn btn-primary">
+        <p className="card-text">{description}</p>
+        <a
+          style={{
+            width: "100%",
+          }}
+          href={link}
+          target="_black"
+          className="btn btn-primary"
+        >
           Ver
         </a>
       </div>
