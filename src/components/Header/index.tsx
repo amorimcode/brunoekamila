@@ -50,21 +50,6 @@ const Header = () => {
                 Início
               </Link>
             </li>
-            <li>
-              <a className="nav-link scrollto" href="#about">
-                Save the date
-              </a>
-            </li>
-            <li>
-              <a className="nav-link scrollto" href="#location">
-                Localização
-              </a>
-            </li>
-            <li>
-              <a className="nav-link scrollto" href="#contact">
-                Contato
-              </a>
-            </li>
 
             <li>
               <Link className="nav-link scrollto" to="/padrinhos">
@@ -128,23 +113,6 @@ const Header = () => {
               <Link to="/" className="nav-link scrollto active">
                 Início
               </Link>
-            </li>
-
-            <li>
-              <a className="nav-link scrollto" href="#about">
-                Save the date
-              </a>
-            </li>
-
-            <li>
-              <a className="nav-link scrollto" href="#location">
-                Localização
-              </a>
-            </li>
-            <li>
-              <a className="nav-link scrollto" href="#contact">
-                Contato
-              </a>
             </li>
 
             <li>
