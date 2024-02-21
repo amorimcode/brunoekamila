@@ -25,7 +25,7 @@ const Presentes = () => {
     },
     {
       foto: "https://m.media-amazon.com/images/I/41MPK1xTsGL._AC_SL1000_.jpg",
-      title: "Micro-ondas Philco Branco PMO23BB 220V",
+      title: "Microondas Philco Branco PMO23BB 110V",
       description: "R$ 570,18",
       link: "https://www.amazon.com.br/Micro-ondas-Philco-Branco-Pmo23bb-110v/dp/B097CJVNWS/ref=sr_1_3?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2BOX9JH07WG14&dib=eyJ2IjoiMSJ9.EyNvvPwWjv3J2vYYLJOr75tn6ey1tjOrsxvqVRTn7h2V7EFWTc-ccVN2Y74FL72IMikVYc7bQ3g1BCWx-OmNAynz8VJLrq4UJDAw-Slsmt_DkMCY_0ZICe160TgK3DDmYK1_yp0Y5ox-L-3z730M4CrBsDB0TXld-NpG_S9gVtitmaY1bRZ7JDGoqT3wL400t1RfKuFgSPCKTVdf98PMbVwGrz_hALcCU4GtvTKnR3hwYtGRbaSdvL516gtLGqTCAnUQL70uACHHDksOmN-srIZiTwmF6OtUxCJm4731Z78.ONO-7yj6zPPadhYMBej1P8w2-t0bCrle7pDMrdUg-T4&dib_tag=se&keywords=Micro-ondas%2BPhilco%2B20l%2BBranco%2B110&qid=1708478992&s=appliances&sprefix=micro-ondas%2Bphilco%2B20l%2Bbranco%2B11%2Cappliances%2C263&sr=1-3&ufe=app_do%3Aamzn1.fos.25548f35-0de7-44b3-b28e-0f56f3f96147&th=1",
     },
