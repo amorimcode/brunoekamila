@@ -6,6 +6,7 @@ import Posts from "./pages/Posts";
 import Post from "./pages/Post";
 import Padrinhos from "./pages/Padrinhos";
 import Damas from "./pages/Damas";
+import Presentes from "./pages/Presentes";
 
 function App() {
   return (
@@ -17,6 +18,7 @@ function App() {
         <Route path="/admin" element={<Admin />} />
         <Route path="/padrinhos" element={<Padrinhos />} />
         <Route path="/damas" element={<Damas />} />
+        <Route path="/lista-de-presentes" element={<Presentes />} />
       </Routes>
     </BrowserRouter>
   );

@@ -3,4 +3,6 @@ export type PostType = {
   title: string;
   images: any;
   description: string;
+  link: any;
+  foto?: string;
 };

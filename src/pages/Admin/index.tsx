@@ -19,7 +19,7 @@ const Admin = () => {
   const [password, setPassword] = useState("");
   const [disabled, setDisabled] = useState(false);
 
-  const [post, setPost] = useState<PostType>({
+  const [post, setPost] = useState<any>({
     key: "",
     title: "",
     images: [],
@@ -165,7 +165,7 @@ const Admin = () => {
               required
               onChange={(text) => {
                 if (text) {
-                  setPost((prevState) => ({
+                  setPost((prevState: any) => ({
                     ...prevState,
                     title: text.target.value,
                   }));
@@ -182,7 +182,7 @@ const Admin = () => {
               multiple
               onChange={(file) => {
                 if (file) {
-                  setPost((prevState) => ({
+                  setPost((prevState: any) => ({
                     ...prevState,
                     images: file.target.files,
                   }));
@@ -202,7 +202,7 @@ const Admin = () => {
               required
               onChange={(text) => {
                 if (text) {
-                  setPost((prevState) => ({
+                  setPost((prevState: any) => ({
                     ...prevState,
                     description: text.target.value,
                   }));

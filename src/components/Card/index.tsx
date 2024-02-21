@@ -6,18 +6,28 @@ type CardProps = {
   title: string;
   description: string;
   images: string[];
+  foto?: string;
+  link?: string;
 };
 
-const Card = ({ title, code, description, images }: CardProps) => {
+const Card = ({ title, link, description, foto }: CardProps) => {
   return (
     <div className="card">
-      <img className="card-img-top" src={images[0]} alt="Imagem do post" />
+      <img
+        className="card-img-top"
+        src={
+          foto
+            ? foto
+            : "https://static3.depositphotos.com/1000138/101/i/450/depositphotos_1018082-stock-photo-empty-room.jpg"
+        }
+        alt="Imagem do post"
+      />
       <div className="card-body">
         <h5 className="card-title">{title}</h5>
-        <p className="card-text">{description.substring(0, 100)}...</p>
-        <Link to={`${code}`} className="btn btn-primary">
-          Ver post
-        </Link>
+        {/* <p className="card-text">{description.substring(0, 100)}...</p> */}
+        <a href={link} target="_black" className="btn btn-primary">
+          Ver
+        </a>
       </div>
     </div>
   );
