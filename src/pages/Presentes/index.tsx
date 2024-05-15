@@ -24,12 +24,6 @@ const Presentes = () => {
       link: "https://www.magazineluiza.com.br/geladeira-db44-inverse-frost-free-400-litros-electrolux/p/hc2ga10b9a/ed/rinv/?seller_id=carrefouroficial&region_id=123481&utm_source=google&utm_medium=pla&utm_campaign=&partner_id=71263&gad_source=1&gclid=CjwKCAiAuNGuBhAkEiwAGId4auWdGGYa3avOg2XbFFDcJODFpDpv0Xjya84PzjdX09V7s-RkRYLbOhoCzT4QAvD_BwE&gclsrc=aw.ds",
     },
     {
-      foto: "https://m.media-amazon.com/images/I/41MPK1xTsGL._AC_SL1000_.jpg",
-      title: "Microondas Philco Branco PMO23BB 110V",
-      description: "R$ 570,18",
-      link: "https://www.amazon.com.br/Micro-ondas-Philco-Branco-Pmo23bb-110v/dp/B097CJVNWS/ref=sr_1_3?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2BOX9JH07WG14&dib=eyJ2IjoiMSJ9.EyNvvPwWjv3J2vYYLJOr75tn6ey1tjOrsxvqVRTn7h2V7EFWTc-ccVN2Y74FL72IMikVYc7bQ3g1BCWx-OmNAynz8VJLrq4UJDAw-Slsmt_DkMCY_0ZICe160TgK3DDmYK1_yp0Y5ox-L-3z730M4CrBsDB0TXld-NpG_S9gVtitmaY1bRZ7JDGoqT3wL400t1RfKuFgSPCKTVdf98PMbVwGrz_hALcCU4GtvTKnR3hwYtGRbaSdvL516gtLGqTCAnUQL70uACHHDksOmN-srIZiTwmF6OtUxCJm4731Z78.ONO-7yj6zPPadhYMBej1P8w2-t0bCrle7pDMrdUg-T4&dib_tag=se&keywords=Micro-ondas%2BPhilco%2B20l%2BBranco%2B110&qid=1708478992&s=appliances&sprefix=micro-ondas%2Bphilco%2B20l%2Bbranco%2B11%2Cappliances%2C263&sr=1-3&ufe=app_do%3Aamzn1.fos.25548f35-0de7-44b3-b28e-0f56f3f96147&th=1",
-    },
-    {
       foto: "https://a-static.mlcdn.com.br/800x560/forno-eletrico-air-fry-oven-philco-pfe36s-36l-4-em-1/britania/6053/1ea74c40265a9ba4a24c7bf621c779d3.jpeg",
       title: "Forno Elétrico Air Fry Oven Philco PFE36S 36L 4 em 1",
       description: "R$ 638,31",
@@ -82,12 +76,6 @@ const Presentes = () => {
       title: "Máquina de Lavar",
       description: "R$3.599,00",
       link: "https://www.amazon.com.br/M%C3%A1quina-Intelig%C3%AAncia-Artificial-LG-FV5013WC4/dp/B09DLDC5PF/ref=asc_df_B09DLDC5PF/?tag=googleshopp00-20&linkCode=df0&hvadid=456273449207&hvpos=&hvnetw=g&hvrand=18277527134601080566&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1001729&hvtargid=pla-1629243383232&psc=1&mcid=9942e5e3af893e8f909da5187cd5aa72",
-    },
-    {
-      foto: "https://m.media-amazon.com/images/I/61hDt2yNWNL._AC_SL1000_.jpg",
-      title: "Smart TV QLED UHD Samsung QN43LS03B",
-      description: "R$ 2.949,00",
-      link: "https://www.amazon.com.br/Smart-QLED-UHD-Samsung-QN43LS03B/dp/B0B4V9FQDS/ref=asc_df_B0B4V9FQDS/?tag=googleshopp00-20&linkCode=df0&hvadid=379720128954&hvpos=&hvnetw=g&hvrand=12232758346380343954&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1001729&hvtargid=pla-1841059313224&psc=1&mcid=9db7ae1d66ce3f81a412a508d03993e6",
     },
     {
       foto: "https://m.media-amazon.com/images/I/51GzD85tkxL._AC_SL1000_.jpg",
