@@ -25,7 +25,7 @@ const Card = ({ title, link, description, foto }: CardProps) => {
       />
       <div className="card-body">
         <h5 className="card-title">{title}</h5>
-        <p className="card-text">{description}</p>
+        {/* <p className="card-text">{description}</p> */}
         <a
           style={{
             width: "100%",

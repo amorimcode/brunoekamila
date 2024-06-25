@@ -206,7 +206,7 @@ const Presentes = () => {
                 key={post.key}
                 code={post.key}
                 title={post.title}
-                description={post.description}
+                // description={post.description}
                 images={post.images}
                 link={post.link}
                 foto={post.foto}
