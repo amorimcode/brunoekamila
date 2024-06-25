@@ -18,10 +18,10 @@ const Presentes = () => {
   };
   const [posts, setPosts] = useState<any>([
     {
-      title: "Geladeira DB44 Inverse Frost Free 400 Litros Electrolux 110v",
+      title: "Geladeira",
       description: "R$ 3.658,41",
-      foto: "https://a-static.mlcdn.com.br/800x560/geladeira-db44-inverse-frost-free-400-litros-electrolux/carrefouroficial/900008135/1c3162760f8b8736a077edd90a64885d.jpeg",
-      link: "https://www.magazineluiza.com.br/geladeira-db44-inverse-frost-free-400-litros-electrolux/p/hc2ga10b9a/ed/rinv/?seller_id=carrefouroficial&region_id=123481&utm_source=google&utm_medium=pla&utm_campaign=&partner_id=71263&gad_source=1&gclid=CjwKCAiAuNGuBhAkEiwAGId4auWdGGYa3avOg2XbFFDcJODFpDpv0Xjya84PzjdX09V7s-RkRYLbOhoCzT4QAvD_BwE&gclsrc=aw.ds",
+      foto: "https://a-static.mlcdn.com.br/1500x1500/geladeira-refrigerador-electrolux-frost-free-inverse-branca-400l-db44/magazineluiza/235130100/1950fb94475ef0eca42afac1d3fac86a.jpg",
+      link: "https://www.magazineluiza.com.br/geladeira-refrigerador-electrolux-frost-free-inverse-branca-400l-db44/p/235130100/ed/rinv/?partner_id=64068&utm_source=pdp&utm_medium=share",
     },
     {
       foto: "https://a-static.mlcdn.com.br/800x560/forno-eletrico-air-fry-oven-philco-pfe36s-36l-4-em-1/britania/6053/1ea74c40265a9ba4a24c7bf621c779d3.jpeg",
@@ -78,10 +78,9 @@ const Presentes = () => {
       link: "https://www.amazon.com.br/M%C3%A1quina-Intelig%C3%AAncia-Artificial-LG-FV5013WC4/dp/B09DLDC5PF/ref=asc_df_B09DLDC5PF/?tag=googleshopp00-20&linkCode=df0&hvadid=456273449207&hvpos=&hvnetw=g&hvrand=18277527134601080566&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1001729&hvtargid=pla-1629243383232&psc=1&mcid=9942e5e3af893e8f909da5187cd5aa72",
     },
     {
-      foto: "https://m.media-amazon.com/images/I/51GzD85tkxL._AC_SL1000_.jpg",
-      title: "Cama Box Casal Perfect Umaflex",
-      description: "R$ 1.899,00",
-      link: "https://www.amazon.com.br/Cama-Box-Casal-Perfect-Umaflex/dp/B0C3KR491L/ref=asc_df_B0C3KR491L/?tag=googleshopp00-20&linkCode=df0&hvadid=647622510938&hvpos=&hvnetw=g&hvrand=7740019447258115451&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1001729&hvtargid=pla-2202091652553&psc=1&mcid=254d701ec3e03bf290540e340558c772",
+      foto: "https://m.media-amazon.com/images/I/51qMHVNSQGL._AC_SL1000_.jpg",
+      title: "Cama Box Casal",
+      link: "https://www.amazon.com.br/Cama-Casal-Colch%C3%A3o-Molas-Ensacadas/dp/B089DY771C/ref=asc_df_B089DY771C/?tag=googleshopp00-20&linkCode=df0&hvadid=379799862716&hvpos=&hvnetw=g&hvrand=4803501604794501038&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9100335&hvtargid=pla-1091813521137&psc=1&mcid=e1505f35e88c3cb383c335864d63e23c",
     },
     {
       foto: "https://product-hub-prd.madeiramadeira.com.br/868958/images/507b96aa-4121-4bec-99ef-4c30846f96b6linhogelo1696860971200zoom.jpg?width=700&canvas=1:1&bg-color=FFF",
@@ -90,10 +89,10 @@ const Presentes = () => {
       link: "https://www.madeiramadeira.com.br/sofa-cama-retratil-e-reclinavel-200cm-julia-868958.html?origem=pla-868958&utm_source=google&utm_medium=cpc&utm_content=sofa-retratil-5142&utm_term=&utm_id=17560363577&gad_source=1&gclid=CjwKCAiAuNGuBhAkEiwAGId4arPqZq4di459v0VK3phhekfKcWHpCCcXoRYWakXeBz0mPeRS9ptc3RoCTb8QAvD_BwE",
     },
     {
-      foto: "https://m.media-amazon.com/images/I/71qT4lIC7cL._AC_SL1200_.jpg",
-      title: "Sofá Retrátil e Reclinável 3 Lugares Suede Cinza",
+      foto: "https://static.mobly.com.br/p/Mobly-SofC3A1-RetrC3A1til-Sem-Caixa-3-lugares-Solomons-Linho-Cru-6466-2691811-1.jpg",
+      title: "Sofá",
       description: "R$ 2.149,00",
-      link: "https://www.amazon.com.br/Retr%C3%A1til-Reclin%C3%A1vel-Lugares-Suede-Cinza/dp/B0BGVTL3X2/ref=asc_df_B0BGVTL3X2/?tag=googleshopp00-20&linkCode=df0&hvadid=647438380750&hvpos=&hvnetw=g&hvrand=8739803263044110091&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1001729&hvtargid=pla-2264109306691&psc=1&mcid=20fe477f83aa3875ae8d8042ac850fb2",
+      link: "https://www.mobly.com.br/product/sofa-retratil-sem-caixa-3-lugares-solomons-linho-cru-1181962.html",
     },
     {
       foto: "https://m.media-amazon.com/images/I/61G0nm+-tuL._AC_SL1500_.jpg",
@@ -154,6 +153,24 @@ const Presentes = () => {
       title: "Filtro de Água PURIFICADOR DE ÁGUA PURE4X PE12G BIVOLT",
       description: "R$ 599,00",
       link: "https://www.amazon.com.br/PURIFICADOR-%C3%81GUA-PURE4X-PE12G-BIVOLT/dp/B08X5Z81LK/ref=asc_df_B08X66RQ48/?tag=googleshopp00-20&linkCode=df0&hvadid=457277241281&hvpos=&hvnetw=g&hvrand=835743660782390111&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1001729&hvtargid=pla-1188621312704&mcid=5a1a0394a62833f99192eabcd17f6a62&th=1",
+    },
+    {
+      foto: "https://m.media-amazon.com/images/I/41azTQkW5cL._AC_SL1200_.jpg",
+      title: "Tabua de passar",
+      description: "R$ 599,00",
+      link: "https://www.amazon.com.br/PASSAR-EXTRA-FORTE-PASSA-MANGAS/dp/B09BWYSNPY/ref=asc_df_B09BWYSNPY/?tag=googleshopp00-20&linkCode=df0&hvadid=379773097631&hvpos=&hvnetw=g&hvrand=13089944302423642110&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9100335&hvtargid=pla-1456287705521&psc=1&mcid=484de34bd7013da598e364f8fcbae5d5",
+    },
+    {
+      foto: "https://m.media-amazon.com/images/I/511jk8D3duS._AC_SL1000_.jpg",
+      title: "Batedeira",
+      description: "R$ 599,00",
+      link: "https://www.amazon.com.br/Batedeira-Planet%C3%A1ria-Velocidades-Mondial-BP-03-B/dp/B07WGHXCJX/ref=asc_df_B07WGHXCJX/?tag=googleshopp00-20&linkCode=df0&hvadid=379816330550&hvpos=&hvnetw=g&hvrand=4019173052422806945&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9100335&hvtargid=pla-876957164104&mcid=2d9adb54873a3798a7204dc2c1ee8e63&th=1",
+    },
+    {
+      foto: "https://m.media-amazon.com/images/I/711d1QmQM4L._AC_SL1500_.jpg",
+      title: "Pillow Top",
+      description: "R$ 599,00",
+      link: "https://www.amazon.com.br/Pillow-Toque-Pluma-Casal-espessura/dp/B0C47C86RR/ref=asc_df_B0C47C86RR/?tag=googleshopp00-20&linkCode=df0&hvadid=647426883978&hvpos=&hvnetw=g&hvrand=12473129598056628829&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9100335&hvtargid=pla-2204922063812&psc=1&mcid=24747e5b522c34a78a411ceac5ee95e8#customerReviews",
     },
   ]);
 
