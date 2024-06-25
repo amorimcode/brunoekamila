@@ -83,12 +83,6 @@ const Presentes = () => {
       link: "https://www.amazon.com.br/Cama-Casal-Colch%C3%A3o-Molas-Ensacadas/dp/B089DY771C/ref=asc_df_B089DY771C/?tag=googleshopp00-20&linkCode=df0&hvadid=379799862716&hvpos=&hvnetw=g&hvrand=4803501604794501038&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9100335&hvtargid=pla-1091813521137&psc=1&mcid=e1505f35e88c3cb383c335864d63e23c",
     },
     {
-      foto: "https://product-hub-prd.madeiramadeira.com.br/868958/images/507b96aa-4121-4bec-99ef-4c30846f96b6linhogelo1696860971200zoom.jpg?width=700&canvas=1:1&bg-color=FFF",
-      title: "Sofá Cama Retrátil e Reclinável 200cm Julia",
-      description: "R$ 1.699,88",
-      link: "https://www.madeiramadeira.com.br/sofa-cama-retratil-e-reclinavel-200cm-julia-868958.html?origem=pla-868958&utm_source=google&utm_medium=cpc&utm_content=sofa-retratil-5142&utm_term=&utm_id=17560363577&gad_source=1&gclid=CjwKCAiAuNGuBhAkEiwAGId4arPqZq4di459v0VK3phhekfKcWHpCCcXoRYWakXeBz0mPeRS9ptc3RoCTb8QAvD_BwE",
-    },
-    {
       foto: "https://static.mobly.com.br/p/Mobly-SofC3A1-RetrC3A1til-Sem-Caixa-3-lugares-Solomons-Linho-Cru-6466-2691811-1.jpg",
       title: "Sofá",
       description: "R$ 2.149,00",
