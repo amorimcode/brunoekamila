@@ -4,7 +4,7 @@ import "./styles.scss";
 type CardProps = {
   code: string;
   title: string;
-  description: string;
+  description?: string;
   images: string[];
   foto?: string;
   link?: string;
