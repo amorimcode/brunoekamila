@@ -1,6 +1,6 @@
 import { Modal } from "antd";
 import React, { useState } from "react";
-import { Link, useLocation } from "react-router-dom";
+import { Link, useLocation, useNavigate } from "react-router-dom";
 
 import Logo from "../../assets/svg/logo.svg";
 import LogoWhite from "../../assets/svg/logoWhite.svg";
@@ -10,6 +10,7 @@ import "./styles.scss";
 const Header = () => {
   const [navbar, setNavbar] = useState(false);
   const location = useLocation();
+  const navigate = useNavigate();
   const [isModalVisible, setIsModalVisible] = useState(false);
 
   const showModal = () => {
@@ -25,6 +26,19 @@ const Header = () => {
       setNavbar(true);
     } else {
       setNavbar(false);
+    }
+  };
+
+  const handleProtectedNavigation = (e: any, url: any) => {
+    e.preventDefault();
+    const password = prompt(
+      "Por favor, insira a senha para acessar esta página:"
+    );
+    if (password === "senha123") {
+      // substitua "senha123" pela senha desejada
+      navigate(url);
+    } else {
+      alert("Senha incorreta!");
     }
   };
 
@@ -52,15 +66,23 @@ const Header = () => {
             </li>
 
             <li>
-              <Link className="nav-link scrollto" to="/padrinhos">
+              <a
+                className="nav-link scrollto"
+                href="/padrinhos"
+                onClick={(e) => handleProtectedNavigation(e, "/padrinhos")}
+              >
                 Padrinhos
-              </Link>
+              </a>
             </li>
 
             <li>
-              <Link className="nav-link scrollto" to="/damas">
+              <a
+                className="nav-link scrollto"
+                href="/damas"
+                onClick={(e) => handleProtectedNavigation(e, "/damas")}
+              >
                 Damas de honra
-              </Link>
+              </a>
             </li>
 
             <li>
@@ -128,9 +150,15 @@ const Header = () => {
             </li>
 
             <li>
-              <Link className="nav-link scrollto" to="/lista-de-presentes">
+              <a
+                className="nav-link scrollto"
+                href="/lista-de-presentes"
+                onClick={(e) =>
+                  handleProtectedNavigation(e, "/lista-de-presentes")
+                }
+              >
                 Lista de presentes
-              </Link>
+              </a>
             </li>
           </ul>
           <a
