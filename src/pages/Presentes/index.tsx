@@ -166,20 +166,83 @@ const Presentes = () => {
       description: "R$ 599,00",
       link: "https://www.amazon.com.br/Pillow-Toque-Pluma-Casal-espessura/dp/B0C47C86RR/ref=asc_df_B0C47C86RR/?tag=googleshopp00-20&linkCode=df0&hvadid=647426883978&hvpos=&hvnetw=g&hvrand=12473129598056628829&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9100335&hvtargid=pla-2204922063812&psc=1&mcid=24747e5b522c34a78a411ceac5ee95e8#customerReviews",
     },
+    {
+      foto: "https://m.media-amazon.com/images/I/61a64NePxQS._AC_SL1200_.jpg",
+      title: 'Escorredor de Louças',
+      url: 'https://www.amazon.com.br/Escorredor-Pratos-Porta-Talheres-Inox/dp/B0786TZMTH/ref=asc_df_B0786TZMTH/?tag=googleshopp00-20&linkCode=df0&hvadid=379816330550&hvpos=&hvnetw=g&hvrand=6923050339492184368&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9100335&hvtargid=pla-815190436292&psc=1&mcid=69ff8567da3d38aa97885ed15a6dc52a'
+    },
+    {
+      title: 'Organizador de Geladeira',
+      foto: "https://m.media-amazon.com/images/I/51Pvq4I-mIL._AC_SL1200_.jpg",
+      url: 'https://www.amazon.com.br/KIT-C-2-Organizadores-Geladeira/dp/B09R5RYL7X/ref=asc_df_B09R5RYL7X/?tag=googleshopp00-20&linkCode=df0&hvadid=557926986208&hvpos=&hvnetw=g&hvrand=14598484904077665038&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1001729&hvtargid=pla-1646371101982&psc=1&mcid=43353e189cbe3704846d62d6e78d73ac'
+    },
+    {
+      title: 'Pote Hermetico',
+      foto: "https://m.media-amazon.com/images/I/519ZH-Fhc1L._AC_SL1000_.jpg",
+      url: 'https://www.amazon.com.br/Kit-Potes-Herm%C3%A9ticos-Pl%C3%A1stico-Electrolux/dp/B09XJL4B9H/ref=asc_df_B09XJL4B9H/?tag=googleshopp00-20&linkCode=df0&hvadid=379725881673&hvpos=&hvnetw=g&hvrand=14598484904077665038&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1001729&hvtargid=pla-1662902312395&mcid=93036d57993a35b7af417811b1a3528a&th=1'
+    },
+    {
+      title: 'Porta Tempero',
+      foto: "https://m.media-amazon.com/images/I/61OG7XRQh5L._AC_SL1200_.jpg",
+      url: 'https://www.amazon.com.br/Porta-Tempero-Condimento-Giratorio-Cozinha/dp/B08L5M5V6H/ref=asc_df_B08L5M5V6H/?tag=googleshopp00-20&linkCode=df0&hvadid=456273449207&hvpos=&hvnetw=g&hvrand=15582696808799468820&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1001729&hvtargid=pla-1091134025254&psc=1&mcid=a7349087334b31238947b7723d0bd04e'
+    },
+    {
+      title: 'Kit travesseiro',
+      foto: "https://m.media-amazon.com/images/I/61M5fjeKWpL._AC_SL1200_.jpg",
+      url: 'https://www.amazon.com.br/Kit-Travesseiro-Pe%C3%A7as-Percal-Fios/dp/B076PL3G89/ref=asc_df_B076PL3G89/?tag=googleshopp00-20&linkCode=df0&hvadid=379720772128&hvpos=&hvnetw=g&hvrand=10782962139143374491&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1001729&hvtargid=pla-836223934257&psc=1&mcid=f81c6189036939c2846b9f680237c774'
+    },
+    {
+      title: 'Cabides de madeira maciça',
+      foto: "https://m.media-amazon.com/images/I/81LnYLK5v+L._AC_SL1500_.jpg",
+      url: 'https://www.amazon.com.br/Cabides-para-Terno-Madeira-S%C3%B3lida/dp/B09RQ1X9DG/ref=asc_df_B09RQ1X9DG/?tag=googleshopp00-20&linkCode=df0&hvadid=379725476299&hvpos=&hvnetw=g&hvrand=10520428875965645672&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1001729&hvtargid=pla-1637394179166&psc=1&mcid=c4140f3161383c88aa109c199b92f51a'
+    },
+    {
+      title: 'Cesto de roupas',
+      foto: "https://m.media-amazon.com/images/I/71VkDPv0+XL._AC_SL1500_.jpg",
+      url: 'https://www.amazon.com.br/Redondo-Retangular-Banheiro-Lavanderia-Forrado/dp/B0D1RSVW1W/ref=asc_df_B0D1RKSBM6/?tag=googleshopp00-20&linkCode=df0&hvadid=647405851320&hvpos=&hvnetw=g&hvrand=4601906378263327794&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1001729&hvtargid=pla-2300348620495&mcid=ba6834265c3b372999d79890a19135bb&t'
+    },
+    {
+      title: 'Toalhas de banho',
+      foto: "https://m.media-amazon.com/images/I/711T4hQ51qL._AC_SL1000_.jpg",
+      url: 'https://www.amazon.com.br/Toalhas-Karsten-Algod%C3%A3o-Felpuda-67x135cm/dp/B07XYFFRT3/ref=asc_df_B07XYFFRT3/?tag=googleshopp00-20&linkCode=df0&hvadid=379720655980&hvpos=&hvnetw=g&hvrand=15633358883949040535&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1001729&hvtargid=pla-933209315899&psc=1&mcid=6bbc2ff4e86832bb9f2b273276da0a4a'
+    },
+    {
+      title: 'Toalhas de rosto',
+      foto: "https://m.media-amazon.com/images/I/71Pf-BNFE6L._AC_SL1000_.jpg",
+      url: 'https://www.amazon.com.br/pe%C3%A7as-Toalha-Lavabo-Buddemeyer-Vision/dp/B0CVL6RWMF/ref=asc_df_B0CVL6RWMF/?tag=googleshopp00-20&linkCode=df0&hvadid=647401007163&hvpos=&hvnetw=g&hvrand=16906705353066234386&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1001729&hvtargid=pla-2293974871673&mcid=b3eab8089a41385596a42196a093d9f2&th=1'
+    },
+    {
+      title: 'Tapetes de banheiro',
+      foto: "https://m.media-amazon.com/images/I/61afNMVaijL._AC_SL1200_.jpg",
+      url: 'https://www.amazon.com.br/Tapetes-Banheiro-Antiderrapante-Emborrachado-60x40cm/dp/B0CLQ336QR/ref=asc_df_B0CLQ336QR/?tag=googleshopp00-20&linkCode=df0&hvadid=647603346200&hvpos=&hvnetw=g&hvrand=7775287222266336419&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1001729&hvtargid=pla-2267084157784&psc=1&mcid=a7e7fa4fbf5437a19c89defb65e31f84'
+    },
+    {
+      title: 'Espelho',
+      foto: "https://m.media-amazon.com/images/I/31w+giSwHaL._AC_SL1000_.jpg",
+      url: 'https://www.amazon.com.br/Espelho-Pinterest-Org%C3%A2nico-Industrial-60x110cm/dp/B0CSLCRCXS/ref=sr_1_2?dib=eyJ2IjoiMSJ9.z9UPutrfnYC69BceKt1hGlA0-erLwU4PG7_5R4xyslKvt7yYcci4IKluyVLN-umtPVWTPfBZqwNXfPoGzLWCPyxZbjvJ3Amp591NZqmH3erIVFDgpBMfpIhIFVQj8_cuMaR8bDKk_dro3oGqcNG4EnRnooaOnrGDPnoYt_grry0f6bPGUPlPb-_H0vhlzEC0_AhTu8bJ6vmEbhzCSo-G64MrA790OSpvGKGe3ABSzPvjwZYXXDZ046tR6dLAPS5ejmlM3FEAm7EigmVSfR39Q2hk9vpyCLo3dnZZmVxvs_c.-NH7HG20EU9ST7cexnIuYpv1qKgVo0_EZdGqid90KVo&dib_tag=se&keywords=casa%2Bdomo%2Bespelho&qid=1719350386&sr=8-2&ufe=app_do%3Aamzn1.fos.4bb5663b-6f7d-4772-84fa-7c7f565ec65b&th=1'
+    },
+    {
+      title: 'Jarra de vidro',
+      foto: "https://m.media-amazon.com/images/I/715sQGCzGjL._AC_SL1500_.jpg",
+      url: 'https://www.amazon.com.br/Wincy-Jarra-Vidro-Cromada-VDA11046/dp/B09R82XT4V/ref=sr_1_5?crid=3MVF5K234Y84H&dib=eyJ2IjoiMSJ9.CDcFHWOl6RBdXivbiVLZnSrGo4JXO6oOA5UbCjzR4XVDdvvAXcXHnS_iuEuZWo373mvsqbJJCLanNPLTD-ksQx7R3v5Ets1kmfci1mwkv-WxyxJPRV0l0F0nEpTXSI5G34hUZVvQfzNBmWm8mN57EEDJ5bEkqZEGMB0WtLW9YSV5Y0oTi-89QfqlroLMqI_XpY9dst8YLKDuaN2RppVktxLzK8amhG58VF3xUxE7kBhJq7pYIKmt5UrE3o2asZE6Qcfb8WPG_-uStR5uvvAFHEb9OyEEhBGlCfaPAO-znBM.KnImSz_5PxGqsw2NoT3P4yiTuWzjFcjHlwojuAdxo2k&dib_tag=se&keywords=jarra+de+suco&qid=1719350475&sprefix=jarro+%2Caps%2C190&sr=8-5'
+    },
+    {
+      title: 'Tabua de cortar',
+      foto: "https://m.media-amazon.com/images/I/61P1w5oCmzL._AC_SL1200_.jpg",
+      url: 'https://www.amazon.com.br/T%C3%A1buas-Teca-Suporte-Organizador-Stolf/dp/B08VRP737Y/ref=asc_df_B08VRP737Y/?tag=googleshopp00-20&linkCode=df0&hvadid=405263819486&hvpos=&hvnetw=g&hvrand=8393475656483584909&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1001729&hvtargid=pla-1209365709496&psc=1&mcid=06b367fa4bc734f7b6ebddc223e4dbff'
+    },
+    {
+      title: 'Tabua de cortar',
+      foto: "https://m.media-amazon.com/images/I/61P1w5oCmzL._AC_SL1200_.jpg",
+      url: 'https://www.amazon.com.br/T%C3%A1buas-Teca-Suporte-Organizador-Stolf/dp/B08VRP737Y/ref=asc_df_B08VRP737Y/?tag=googleshopp00-20&linkCode=df0&hvadid=405263819486&hvpos=&hvnetw=g&hvrand=8393475656483584909&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1001729&hvtargid=pla-1209365709496&psc=1&mcid=06b367fa4bc734f7b6ebddc223e4dbff'
+    },
+    {
+      title: 'Mixer',
+      foto: "https://m.media-amazon.com/images/I/711xy6JhdXL._AC_SL1500_.jpg",
+      url: 'https://www.amazon.com.br/Electrolux-4011AHBR407-Mixer-EIB10/dp/B09B2M8N4T/ref=asc_df_B09B2M8N4T/?tag=googleshopp00-20&linkCode=df0&hvadid=455483639906&hvpos=&hvnetw=g&hvrand=17852786299648926179&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1001729&hvtargid=pla-1416833357664&mcid=3fb019560064391ab1a1d5365c365039&th=1'
+    },
   ]);
 
-  // useEffect(() => {
-  //   const starCountRef = ref(db, "posts/");
-  //   onValue(starCountRef, (snapshot) => {
-  //     const data = snapshot.val();
-  //     let arr = Object.keys(data).map((k) => data[k]);
-  //     setPosts(
-  //       arr.sort(function (a, b) {
-  //         return a.datetime < b.datetime ? 1 : a.datetime > b.datetime ? -1 : 0;
-  //       })
-  //     );
-  //   });
-  // }, []);
 
   return (
     <>
