@@ -263,7 +263,7 @@ const Presentes = () => {
             <p>
               
 
-            Queridos amigos e familiares,\n
+            Queridos amigos e familiares,
 
             Estamos muito felizes em compartilhar este momento especial de nossas vidas com vocês! Para aqueles que desejam nos presentear, gostaríamos de informar que aceitamos presentes através de PIX (52306431884), facilitando a sua contribuição de maneira prática e segura.
 
