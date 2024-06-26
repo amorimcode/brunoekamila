@@ -232,11 +232,6 @@ const Presentes = () => {
       url: 'https://www.amazon.com.br/T%C3%A1buas-Teca-Suporte-Organizador-Stolf/dp/B08VRP737Y/ref=asc_df_B08VRP737Y/?tag=googleshopp00-20&linkCode=df0&hvadid=405263819486&hvpos=&hvnetw=g&hvrand=8393475656483584909&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1001729&hvtargid=pla-1209365709496&psc=1&mcid=06b367fa4bc734f7b6ebddc223e4dbff'
     },
     {
-      title: 'Tabua de cortar',
-      foto: "https://m.media-amazon.com/images/I/61P1w5oCmzL._AC_SL1200_.jpg",
-      url: 'https://www.amazon.com.br/T%C3%A1buas-Teca-Suporte-Organizador-Stolf/dp/B08VRP737Y/ref=asc_df_B08VRP737Y/?tag=googleshopp00-20&linkCode=df0&hvadid=405263819486&hvpos=&hvnetw=g&hvrand=8393475656483584909&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1001729&hvtargid=pla-1209365709496&psc=1&mcid=06b367fa4bc734f7b6ebddc223e4dbff'
-    },
-    {
       title: 'Mixer',
       foto: "https://m.media-amazon.com/images/I/711xy6JhdXL._AC_SL1500_.jpg",
       url: 'https://www.amazon.com.br/Electrolux-4011AHBR407-Mixer-EIB10/dp/B09B2M8N4T/ref=asc_df_B09B2M8N4T/?tag=googleshopp00-20&linkCode=df0&hvadid=455483639906&hvpos=&hvnetw=g&hvrand=17852786299648926179&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1001729&hvtargid=pla-1416833357664&mcid=3fb019560064391ab1a1d5365c365039&th=1'
