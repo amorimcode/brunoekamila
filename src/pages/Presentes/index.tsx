@@ -267,21 +267,21 @@ const Presentes = () => {
 
             Estamos muito felizes em compartilhar este momento especial de nossas vidas com vocês! Para aqueles que desejam nos presentear, gostaríamos de informar que aceitamos presentes através de PIX (52306431884), facilitando a sua contribuição de maneira prática e segura.
 
-            \n
+           
  
 
             Se preferirem, também temos uma lista de presentes sugestiva! Caso escolha nos presentear com algum item desta lista, pedimos que nos avisem para que este item possa ser retidado da mesma. 
 
-            \n
+          
 
 
             Desde já, agradecemos por fazerem parte deste dia tão significativo para nós.
 
 
-            \n
+          
 
             Com carinho,
-            \n
+          
 
             Bruno & Kamila
             </p>
