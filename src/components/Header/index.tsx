@@ -34,7 +34,7 @@ const Header = () => {
     const password = prompt(
       "Por favor, insira a senha para acessar esta página:"
     );
-    if (password === "senha123") {
+    if (password === "bk121024") {
       // substitua "senha123" pela senha desejada
       navigate(url);
     } else {
