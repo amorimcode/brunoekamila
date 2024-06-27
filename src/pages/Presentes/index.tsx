@@ -256,7 +256,7 @@ const Presentes = () => {
             <h1>Lista de presentes</h1>
 
             <p>Queridos amigos e familiares,</p>
-            <p>Estamos muito felizes em compartilhar este momento especial de nossas vidas com vocês! Para aqueles que desejam nos presentear, gostaríamos de informar que aceitamos presentes através de PIX (53808625864), facilitando a sua contribuição de maneira prática e segura.</p>
+            <p>Estamos muito felizes em compartilhar este momento especial de nossas vidas com vocês! Para aqueles que desejam nos presentear, gostaríamos de informar que aceitamos presentes através de PIX (52306431884), facilitando a sua contribuição de maneira prática e segura.</p>
             <p>Se preferirem, também temos uma lista de presentes sugestiva! Caso escolha nos presentear com algum item desta lista, pedimos que nos avisem para que este item possa ser retirado da mesma.</p>
             <p>Desde já, agradecemos por fazerem parte deste dia tão significativo para nós.</p>
             <p>Com carinho,</p>
