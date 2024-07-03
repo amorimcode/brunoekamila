@@ -138,24 +138,32 @@ const Header = () => {
             </li>
 
             <li>
-              <Link className="nav-link scrollto" to="/padrinhos">
+              <a
+                className="nav-link scrollto"
+                href="/padrinhos"
+                onClick={(e) => handleProtectedNavigation(e, "/padrinhos")}
+              >
                 Padrinhos
-              </Link>
+              </a>
             </li>
 
             <li>
-              <Link className="nav-link scrollto" to="/damas">
+            <a
+                className="nav-link scrollto"
+                href="/lista-de-presentes"
+                onClick={(e) => handleProtectedNavigation(e, "/damas-de-honra")}
+              >
+      
                 Damas de honra
-              </Link>
+            
+              </a>
+              
             </li>
 
             <li>
               <a
                 className="nav-link scrollto"
                 href="/lista-de-presentes"
-                onClick={(e) =>
-                  handleProtectedNavigation(e, "/lista-de-presentes")
-                }
               >
                 Lista de presentes
               </a>
