@@ -95,12 +95,6 @@ const Presentes = () => {
       link: "https://www.amazon.com.br/PHILIPS-DST3010-32-Ferro-EcoPower/dp/B09GHLKBBZ/ref=asc_df_B09GHLKBBZ/?tag=googleshopp00-20&linkCode=df0&hvadid=379817891759&hvpos=&hvnetw=g&hvrand=1367586525661694519&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1001729&hvtargid=pla-1529055327311&mcid=732c292512583aa7a744e805e4749ffe&th=1",
     },
     {
-      foto: "https://m.media-amazon.com/images/I/61AjgTFEaRL._AC_SL1000_.jpg",
-      title: "Jogo de Panelas Tramontina Alumínio Antiaderente 7 Peças",
-      description: "R$ 413,30",
-      link: "https://www.amazon.com.br/Tramontina-Alum%C3%ADnio-Revestimento-Antiaderente-Starflon/dp/B0CDR1SKHR/ref=asc_df_B0CDR1SKHR/?tag=googleshopp00-20&linkCode=df0&hvadid=647505722315&hvpos=&hvnetw=g&hvrand=7583489123641235927&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1001729&hvtargid=pla-2206855884661&psc=1&mcid=d4262a6774a7312bac3737e94b9de4ce",
-    },
-    {
       foto: "https://m.media-amazon.com/images/I/81ubjq2DfxL._AC_SL1500_.jpg",
       title: "Panela de Pressão Tramontina Vancouver Alumínio 4,5 Litros",
       description: "R$ 189,91",
