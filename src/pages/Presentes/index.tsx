@@ -18,12 +18,6 @@ const Presentes = () => {
   };
   const [posts, setPosts] = useState<any>([
     {
-      title: "Geladeira",
-      description: "R$ 3.658,41",
-      foto: "https://a-static.mlcdn.com.br/1500x1500/geladeira-refrigerador-electrolux-frost-free-inverse-branca-400l-db44/magazineluiza/235130100/1950fb94475ef0eca42afac1d3fac86a.jpg",
-      link: "https://www.magazineluiza.com.br/geladeira-refrigerador-electrolux-frost-free-inverse-branca-400l-db44/p/235130100/ed/rinv/?partner_id=64068&utm_source=pdp&utm_medium=share",
-    },
-    {
       foto: "https://a-static.mlcdn.com.br/800x560/forno-eletrico-air-fry-oven-philco-pfe36s-36l-4-em-1/britania/6053/1ea74c40265a9ba4a24c7bf621c779d3.jpeg",
       title: "Forno Elétrico Air Fry Oven Philco PFE36S 36L 4 em 1",
       description: "R$ 638,31",
@@ -70,12 +64,6 @@ const Presentes = () => {
       title: "Liquidificador Philco PLQ2100PI Turbo Preto 1400W",
       description: "R$ 199,00",
       link: "https://www.casasbahia.com.br/liquidificador-philco-plq2100pi-turbo-preto-1400w-com-12-velocidades-55065343/p/55065343?utm_medium=cpc&utm_source=GP_PLA&IdSku=55065343&idLojista=10037&tipoLojista=1P&&utm_campaign=gg_pmax_core_elpo&gad_source=1&gclid=CjwKCAiAuNGuBhAkEiwAGId4ajbzhBZ5kMTLP_ufUxy8VwU4K4eOlBiewGQIVn8QsaJkq-9y9Gl70xoCv6cQAvD_BwE&gclsrc=aw.ds",
-    },
-    {
-      foto: "https://m.media-amazon.com/images/I/51zY-q88FlL._AC_SL1000_.jpg",
-      title: "Máquina de Lavar",
-      description: "R$3.599,00",
-      link: "https://www.amazon.com.br/M%C3%A1quina-Intelig%C3%AAncia-Artificial-LG-FV5013WC4/dp/B09DLDC5PF/ref=asc_df_B09DLDC5PF/?tag=googleshopp00-20&linkCode=df0&hvadid=456273449207&hvpos=&hvnetw=g&hvrand=18277527134601080566&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1001729&hvtargid=pla-1629243383232&psc=1&mcid=9942e5e3af893e8f909da5187cd5aa72",
     },
     {
       foto: "https://m.media-amazon.com/images/I/51qMHVNSQGL._AC_SL1000_.jpg",
