@@ -66,11 +66,6 @@ const Presentes = () => {
       link: "https://www.casasbahia.com.br/liquidificador-philco-plq2100pi-turbo-preto-1400w-com-12-velocidades-55065343/p/55065343?utm_medium=cpc&utm_source=GP_PLA&IdSku=55065343&idLojista=10037&tipoLojista=1P&&utm_campaign=gg_pmax_core_elpo&gad_source=1&gclid=CjwKCAiAuNGuBhAkEiwAGId4ajbzhBZ5kMTLP_ufUxy8VwU4K4eOlBiewGQIVn8QsaJkq-9y9Gl70xoCv6cQAvD_BwE&gclsrc=aw.ds",
     },
     {
-      foto: "https://m.media-amazon.com/images/I/51qMHVNSQGL._AC_SL1000_.jpg",
-      title: "Cama Box Casal",
-      link: "https://www.amazon.com.br/Cama-Casal-Colch%C3%A3o-Molas-Ensacadas/dp/B089DY771C/ref=asc_df_B089DY771C/?tag=googleshopp00-20&linkCode=df0&hvadid=379799862716&hvpos=&hvnetw=g&hvrand=4803501604794501038&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9100335&hvtargid=pla-1091813521137&psc=1&mcid=e1505f35e88c3cb383c335864d63e23c",
-    },
-    {
       foto: "https://static.mobly.com.br/p/Mobly-SofC3A1-RetrC3A1til-Sem-Caixa-3-lugares-Solomons-Linho-Cru-6466-2691811-1.jpg",
       title: "Sofá",
       description: "R$ 2.149,00",
