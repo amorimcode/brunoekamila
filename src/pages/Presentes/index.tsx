@@ -132,12 +132,6 @@ const Presentes = () => {
       link: "https://www.amazon.com.br/PASSAR-EXTRA-FORTE-PASSA-MANGAS/dp/B09BWYSNPY/ref=asc_df_B09BWYSNPY/?tag=googleshopp00-20&linkCode=df0&hvadid=379773097631&hvpos=&hvnetw=g&hvrand=13089944302423642110&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9100335&hvtargid=pla-1456287705521&psc=1&mcid=484de34bd7013da598e364f8fcbae5d5",
     },
     {
-      foto: "https://m.media-amazon.com/images/I/511jk8D3duS._AC_SL1000_.jpg",
-      title: "Batedeira",
-      description: "R$ 599,00",
-      link: "https://www.amazon.com.br/Batedeira-Planet%C3%A1ria-Velocidades-Mondial-BP-03-B/dp/B07WGHXCJX/ref=asc_df_B07WGHXCJX/?tag=googleshopp00-20&linkCode=df0&hvadid=379816330550&hvpos=&hvnetw=g&hvrand=4019173052422806945&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9100335&hvtargid=pla-876957164104&mcid=2d9adb54873a3798a7204dc2c1ee8e63&th=1",
-    },
-    {
       foto: "https://m.media-amazon.com/images/I/711d1QmQM4L._AC_SL1500_.jpg",
       title: "Pillow Top",
       description: "R$ 599,00",
