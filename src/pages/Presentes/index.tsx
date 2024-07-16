@@ -18,12 +18,6 @@ const Presentes = () => {
   };
   const [posts, setPosts] = useState<any>([
     {
-      foto: "https://a-static.mlcdn.com.br/800x560/forno-eletrico-air-fry-oven-philco-pfe36s-36l-4-em-1/britania/6053/1ea74c40265a9ba4a24c7bf621c779d3.jpeg",
-      title: "Forno Elétrico Air Fry Oven Philco PFE36S 36L 4 em 1",
-      description: "R$ 638,31",
-      link: "https://www.magazineluiza.com.br/forno-eletrico-air-fry-oven-philco-pfe36s-36l-4-em-1/p/abdf30a9f3/ed/frne/?seller_id=britania&region_id=123481&utm_source=google&utm_medium=pla&utm_campaign=&partner_id=73975&gad_source=1&gclid=CjwKCAiAuNGuBhAkEiwAGId4avnNmZyqVgcBQwkdX_GatDguEIc8JFKT6GdK_8ESoLQk8OGN5DvcPRoCoNoQAvD_BwE&gclsrc=aw.ds",
-    },
-    {
       title: "Jogo de Facas Tramontina Plenus 23498015 6 Peças",
       description: "R$ 159,54",
       foto: "https://m.media-amazon.com/images/I/81EXZyPHYEL._AC_SL1500_.jpg",
