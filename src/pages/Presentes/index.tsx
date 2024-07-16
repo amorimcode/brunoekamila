@@ -66,12 +66,6 @@ const Presentes = () => {
       link: "https://www.casasbahia.com.br/liquidificador-philco-plq2100pi-turbo-preto-1400w-com-12-velocidades-55065343/p/55065343?utm_medium=cpc&utm_source=GP_PLA&IdSku=55065343&idLojista=10037&tipoLojista=1P&&utm_campaign=gg_pmax_core_elpo&gad_source=1&gclid=CjwKCAiAuNGuBhAkEiwAGId4ajbzhBZ5kMTLP_ufUxy8VwU4K4eOlBiewGQIVn8QsaJkq-9y9Gl70xoCv6cQAvD_BwE&gclsrc=aw.ds",
     },
     {
-      foto: "https://static.mobly.com.br/p/Mobly-SofC3A1-RetrC3A1til-Sem-Caixa-3-lugares-Solomons-Linho-Cru-6466-2691811-1.jpg",
-      title: "Sofá",
-      description: "R$ 2.149,00",
-      link: "https://www.mobly.com.br/product/sofa-retratil-sem-caixa-3-lugares-solomons-linho-cru-1181962.html",
-    },
-    {
       foto: "https://m.media-amazon.com/images/I/61G0nm+-tuL._AC_SL1500_.jpg",
       title: "Ferro de Passar Philips Walita Easyspeed Plus DST3010/32",
       description: "R$ 179,99",
