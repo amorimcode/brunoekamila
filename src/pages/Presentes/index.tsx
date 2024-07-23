@@ -18,12 +18,6 @@ const Presentes = () => {
   };
   const [posts, setPosts] = useState<any>([
     {
-      title: "Jogo de Facas Tramontina Plenus 23498015 6 Peças",
-      description: "R$ 159,54",
-      foto: "https://m.media-amazon.com/images/I/81EXZyPHYEL._AC_SL1500_.jpg",
-      link: "https://www.amazon.com.br/Facas-Pe%C3%A7as-Tramontina-Plenus-23498015/dp/B0772XQ7XQ/ref=asc_df_B0772XQ7XQ/?tag=googleshopp00-20&linkCode=df0&hvadid=379714275348&hvpos=&hvnetw=g&hvrand=1085407482333365417&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1001729&hvtargid=pla-810029703099",
-    },
-    {
       foto: "https://m.media-amazon.com/images/I/61waSycODiL._AC_SL1500_.jpg",
       title: "Jogo de Talheres Tramontina 66906774 para Churrasco 12 Peças",
       description: "R$ 222,09",
