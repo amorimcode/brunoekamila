@@ -42,22 +42,10 @@ const Presentes = () => {
       link: "https://www.amazon.com.br/Copos-Lights-Drink-410ml-Nadir/dp/B07PP8FMTY/ref=asc_df_B07PP8FMTY/?tag=googleshopp00-20&linkCode=df0&hvadid=379685432142&hvpos=&hvnetw=g&hvrand=13094017039981043948&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1001729&hvtargid=pla-926667362852&psc=1&mcid=d882b9d277f63f208f69c137c2083102",
     },
     {
-      foto: "https://m.media-amazon.com/images/I/71Hu52JwP-L._AC_SL1280_.jpg",
-      title: "Jogo de Taças de Vinho Vidro Diamante 340ml 6 Peças",
-      description: "R$ 56,00",
-      link: "https://www.amazon.com.br/Ta%C3%A7as-Vinho-Vidro-Diamante-340ML/dp/B093TM4536/ref=asc_df_B093TM4536/?tag=googleshopp00-20&linkCode=df0&hvadid=379685432142&hvpos=&hvnetw=g&hvrand=13094017039981043948&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1001729&hvtargid=pla-1421489404729&psc=1&mcid=00fa8fcc8bd5358ea3e990a68b08fe17",
-    },
-    {
       foto: "https://imgs.casasbahia.com.br/55065343/1g.jpg?imwidth=500",
       title: "Liquidificador Philco PLQ2100PI Turbo Preto 1400W",
       description: "R$ 199,00",
       link: "https://www.casasbahia.com.br/liquidificador-philco-plq2100pi-turbo-preto-1400w-com-12-velocidades-55065343/p/55065343?utm_medium=cpc&utm_source=GP_PLA&IdSku=55065343&idLojista=10037&tipoLojista=1P&&utm_campaign=gg_pmax_core_elpo&gad_source=1&gclid=CjwKCAiAuNGuBhAkEiwAGId4ajbzhBZ5kMTLP_ufUxy8VwU4K4eOlBiewGQIVn8QsaJkq-9y9Gl70xoCv6cQAvD_BwE&gclsrc=aw.ds",
-    },
-    {
-      foto: "https://m.media-amazon.com/images/I/61G0nm+-tuL._AC_SL1500_.jpg",
-      title: "Ferro de Passar Philips Walita Easyspeed Plus DST3010/32",
-      description: "R$ 179,99",
-      link: "https://www.amazon.com.br/PHILIPS-DST3010-32-Ferro-EcoPower/dp/B09GHLKBBZ/ref=asc_df_B09GHLKBBZ/?tag=googleshopp00-20&linkCode=df0&hvadid=379817891759&hvpos=&hvnetw=g&hvrand=1367586525661694519&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1001729&hvtargid=pla-1529055327311&mcid=732c292512583aa7a744e805e4749ffe&th=1",
     },
     {
       foto: "https://m.media-amazon.com/images/I/81ubjq2DfxL._AC_SL1500_.jpg",
