@@ -84,12 +84,6 @@ const Presentes = () => {
       link: "https://www.amazon.com.br/Ventilador-Turbo-Velocidades-Mondial-VTX-40-8P/dp/B07YL7P5XY/ref=asc_df_B07YL7P5XY/?tag=googleshopp00-20&linkCode=df0&hvadid=379720649038&hvpos=&hvnetw=g&hvrand=13667427652532073244&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1001729&hvtargid=pla-847430805973&mcid=4c0e5a5deddb3dfdaed909c16ade05bf&th=1",
     },
     {
-      foto: "https://m.media-amazon.com/images/I/31KedS5l8NL._AC_SL1000_.jpg",
-      title: "Aspirador de Pó Vertical Electrolux",
-      description: "R$ 219,90",
-      link: "https://www.amazon.com.br/Aspirador-vertical-com-STK12-127V/dp/B08SBLCFB3/ref=asc_df_B08SBLCFB3/?tag=googleshopp00-20&linkCode=df0&hvadid=379725476635&hvpos=&hvnetw=g&hvrand=10569202923120223327&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1001729&hvtargid=pla-1286515127230&mcid=07712927be0e3c1bac6c7beed75472f0&th=1",
-    },
-    {
       foto: "https://m.media-amazon.com/images/I/41nMVp8b13S._SL1000_.jpg",
       title: "Filtro de Água PURIFICADOR DE ÁGUA PURE4X PE12G BIVOLT",
       description: "R$ 599,00",
