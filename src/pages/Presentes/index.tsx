@@ -66,12 +66,6 @@ const Presentes = () => {
       link: "https://www.amazon.com.br/Conjunto-Sobremesa-Pe%C3%A7as-Cancun-Ruvolo/dp/B078BMGZ6J/ref=asc_df_B078BMGZ6J/?tag=googleshopp00-20&linkCode=df0&hvadid=379816330550&hvpos=&hvnetw=g&hvrand=12986771712994326610&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1001729&hvtargid=pla-892441309864&psc=1&mcid=697cae12a9f83ff1a23b4fff901b2252",
     },
     {
-      foto: "https://m.media-amazon.com/images/I/51X6C1aXaxL._AC_SL1000_.jpg",
-      title: "Jogo de Assadeiras com Tampa de Vidro Marinex Alumínio 6 Peças",
-      description: "R$ 146,88",
-      link: "https://www.amazon.com.br/Assadeiras-Marinex-Pe%C3%A7as-Tampa-Vidro/dp/B082M6W4VX/ref=asc_df_B082M6W4VX/?tag=googleshopp00-20&linkCode=df0&hvadid=379727342281&hvpos=&hvnetw=g&hvrand=5081619589372033858&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1001729&hvtargid=pla-896953145889&psc=1&mcid=2cd9f06494cc33a3a441149ff664f158",
-    },
-    {
       foto: "https://m.media-amazon.com/images/I/71wDXh0bvkL._AC_SL1500_.jpg",
       title: "Sanduicheira Elétrica Ondulada Electrolux",
       description: "R$ 199,90",
