@@ -18,12 +18,6 @@ const Presentes = () => {
   };
   const [posts, setPosts] = useState<any>([
     {
-      foto: "https://m.media-amazon.com/images/I/61jglev5nyL._AC_SL1500_.jpg",
-      title: "Jogo de Utensílios de Cozinha Silicone e Madeira 10 Peças",
-      description: "R$ 148,99",
-      link: "https://www.amazon.com.br/cozinha-silicone-antiaderente-madeira-essenciais/dp/B0C2FFW2CL/ref=asc_df_B0C2FFW2CL/?tag=googleshopp00-20&linkCode=df0&hvadid=647439836835&hvpos=&hvnetw=g&hvrand=17904126453781871853&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1001729&hvtargid=pla-2202079411918&psc=1&mcid=afc59fd38fe03fbcbad2e08c40258312",
-    },
-       {
       foto: "https://m.media-amazon.com/images/I/61Pr0fMMh1L._AC_SL1000_.jpg",
       title: "Jogo de Facas",
       description: "R$ 699,99",
