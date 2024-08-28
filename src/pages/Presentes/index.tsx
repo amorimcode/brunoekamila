@@ -42,12 +42,6 @@ const Presentes = () => {
       link: "https://www.amazon.com.br/Tramontina-Vancouver-Alum%C3%ADnio-Revestimento-Antiaderente/dp/B0CD4SCM33/ref=asc_df_B0CD4SCM33/?tag=googleshopp00-20&linkCode=df0&hvadid=647429706147&hvpos=&hvnetw=g&hvrand=5549170002979248470&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1001729&hvtargid=pla-2201893611338&mcid=d2e86ca0b4bc30358a5dc5573bbe2b22&th=1",
     },
     {
-      foto: "https://m.media-amazon.com/images/I/51RKjJvDP8L._AC_SL1500_.jpg",
-      title: "Jogo de Assadeiras Tramontina Alumínio Antiaderente 3 Peças",
-      description: "R$ 173,70",
-      link: "https://www.amazon.com.br/Assadeiras-Alum%C3%ADnio-Revestimento-Antiaderente-Tramontina/dp/B008R7SQ40/ref=asc_df_B008R7SQ40/?tag=googleshopp00-20&linkCode=df0&hvadid=379715626932&hvpos=&hvnetw=g&hvrand=16588126120752909019&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1001729&hvtargid=pla-457736022201&mcid=09f9568ec2f1346e83434bc9729edf60&th=1",
-    },
-    {
       foto: "https://m.media-amazon.com/images/I/61EDp631OLL._AC_SL1000_.jpg",
       title: "Conjunto de Sobremesa Cancun 7 Peças Ruvolo",
       description: "R$ 159,90",
