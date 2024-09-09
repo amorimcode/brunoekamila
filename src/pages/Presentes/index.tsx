@@ -50,7 +50,7 @@ const Presentes = () => {
     {
       title: 'Organizador de Geladeira',
       foto: "https://m.media-amazon.com/images/I/51Pvq4I-mIL._AC_SL1200_.jpg",
-      url: 'https://www.amazon.com.br/KIT-C-2-Organizadores-Geladeira/dp/B09R5RYL7X/ref=asc_df_B09R5RYL7X/?tag=googleshopp00-20&linkCode=df0&hvadid=557926986208&hvpos=&hvnetw=g&hvrand=14598484904077665038&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1001729&hvtargid=pla-1646371101982&psc=1&mcid=43353e189cbe3704846d62d6e78d73ac'
+      url: 'https://www.amazon.com.br/T%C3%A1buas-Teca-Suporte-Organizador-Stolf/dp/B08VRP737Y/ref=sr_1_7?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=26Y1HYISAODQZ&dib=eyJ2IjoiMSJ9.8nil0ip8ih-1FA3MD4ayhWmFMFxTs6S_Cz4BaGrVtYocOn9j6hOKzGyllhNwQPHrWp1Oq-wjm3CeNtZyCiGej6UYixSMLkXAJGUciqcY-akMXP_S0EDIrTh9K9HMco-EAMHCS3MkUl6zcit6d7p1VwIlAp4dUptixLBEQ-ubpFTO6HHV9DEZw6OBx-H9pYHLtO5oa5Wm1mV83Q5E7_0Cg55UbtPxHKWqXgaplZ8-9p4-W_y8ORQfEQz7BnHcTxY1n6LBWfNYk9LtJ_VA-1LSRRsh3mLAZ8unyziOPtgcBwo.UPDrii6GsGQ6OS0cWnATw-VlFcGHSTuP7lvom28VFec&dib_tag=se&keywords=tabua&qid=1725850701&sprefix=tab%2Caps%2C188&sr=8-7&ufe=app_do%3Aamzn1.fos.6d798eae-cadf-45de-946a-f477d47705b9'
     },
     {
       title: 'Pote Hermetico',
