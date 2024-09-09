@@ -69,13 +69,13 @@ const Presentes = () => {
     },
     {
       title: 'Toalhas de banho',
-      foto: "https://m.media-amazon.com/images/I/711T4hQ51qL._AC_SL1000_.jpg",
-      url: 'https://www.amazon.com.br/Toalhas-Karsten-Algod%C3%A3o-Felpuda-67x135cm/dp/B07XYFFRT3/ref=asc_df_B07XYFFRT3/?tag=googleshopp00-20&linkCode=df0&hvadid=379720655980&hvpos=&hvnetw=g&hvrand=15633358883949040535&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1001729&hvtargid=pla-933209315899&psc=1&mcid=6bbc2ff4e86832bb9f2b273276da0a4a'
+      foto: "https://a-static.mlcdn.com.br/800x560/jogo-de-toalhas-banhao-gigante-karsten-lumina-4-pecas-fio-penteado-emcompre/emcompre/330724/2f82e25386eece9a06b153ba3d895d05.jpeg",
+      url: 'https://www.magazineluiza.com.br/jogo-de-toalhas-banhao-gigante-karsten-lumina-4-pecas-fio-penteado-emcompre/p/ja4hb89a5a/cm/joto/?partner_id=64068&utm_source=pdp&utm_medium=share'
     },
     {
       title: 'Toalhas de rosto',
       foto: "https://m.media-amazon.com/images/I/71Pf-BNFE6L._AC_SL1000_.jpg",
-      url: 'https://www.amazon.com.br/pe%C3%A7as-Toalha-Lavabo-Buddemeyer-Vision/dp/B0CVL6RWMF/ref=asc_df_B0CVL6RWMF/?tag=googleshopp00-20&linkCode=df0&hvadid=647401007163&hvpos=&hvnetw=g&hvrand=16906705353066234386&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1001729&hvtargid=pla-2293974871673&mcid=b3eab8089a41385596a42196a093d9f2&th=1'
+      url: 'https://www.amazon.com.br/pe%C3%A7as-Toalha-Lavabo-Buddemeyer-Vision/dp/B0CVL6RWMF/ref=sr_1_45?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=147GBJBAD2DXY&dib=eyJ2IjoiMSJ9.wWdA7icKAyWtteVSKkS0b4dji-Ldo5zpZ_xbmKThzrqZkjGpP7xh3IBHBHshybUQsxTaF80mNX3-QENxG2bg22fFaLoN12vrpDxCobZ_Sxu-mtqddzcVkTEO9i81QB_sxSu68lIgxcBgLbIjFbA_iP0awgGVlhmUwNIxZZtkmi0kx_9nRPf2RQx-UJ-tPj6mH1_6SBu7lebm7QlfIXzWzLUqOP8JPbL_atuMj6nqOaN1zQprwG7J-Rj7OjJO35PwlpLkTbd-nVDrMmsiT-VGggLHVSIMHPyDoG1D8muC_3c.nRQFwKzZOzp9ubaSjEJqSbQz5oc5sFmVx5Oy5dcOi5E&dib_tag=se&keywords=toalha+de+banho&qid=1725851241&sprefix=toalhas+de+ban%2Caps%2C195&sr=8-45&ufe=app_do%3Aamzn1.fos.a492fd4a-f54d-4e8d-8c31-35e0a04ce61e'
     },
     {
       title: 'Tapetes de banheiro',
