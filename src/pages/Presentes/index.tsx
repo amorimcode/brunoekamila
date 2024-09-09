@@ -36,12 +36,6 @@ const Presentes = () => {
       link: "https://www.amazon.com.br/Conjunto-Sobremesa-Pe%C3%A7as-Cancun-Ruvolo/dp/B078BMGZ6J/ref=asc_df_B078BMGZ6J/?tag=googleshopp00-20&linkCode=df0&hvadid=379816330550&hvpos=&hvnetw=g&hvrand=12986771712994326610&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1001729&hvtargid=pla-892441309864&psc=1&mcid=697cae12a9f83ff1a23b4fff901b2252",
     },
     {
-      foto: "https://m.media-amazon.com/images/I/71wDXh0bvkL._AC_SL1500_.jpg",
-      title: "Sanduicheira Elétrica Ondulada Electrolux",
-      description: "R$ 199,90",
-      link: "https://www.amazon.com.br/Sanduicheira-ondulada-el%C3%A9trico-Electrolux-antiaderente/dp/B0CCBYBPPQ/ref=asc_df_B0CCBYBPPQ/?tag=googleshopp00-20&linkCode=df0&hvadid=675730870792&hvpos=&hvnetw=g&hvrand=1728106102672376401&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1001729&hvtargid=pla-2244241595902&mcid=d92cea5236f6353585a97e6af024134e&th=1",
-    },
-    {
       foto: "https://m.media-amazon.com/images/I/41azTQkW5cL._AC_SL1200_.jpg",
       title: "Tabua de passar",
       description: "R$ 599,00",
@@ -89,19 +83,14 @@ const Presentes = () => {
       url: 'https://www.amazon.com.br/Tapetes-Banheiro-Antiderrapante-Emborrachado-60x40cm/dp/B0CLQ336QR/ref=asc_df_B0CLQ336QR/?tag=googleshopp00-20&linkCode=df0&hvadid=647603346200&hvpos=&hvnetw=g&hvrand=7775287222266336419&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1001729&hvtargid=pla-2267084157784&psc=1&mcid=a7e7fa4fbf5437a19c89defb65e31f84'
     },
     {
-      title: 'Espelho',
-      foto: "https://m.media-amazon.com/images/I/31w+giSwHaL._AC_SL1000_.jpg",
-      url: 'https://www.amazon.com.br/Espelho-Pinterest-Org%C3%A2nico-Industrial-60x110cm/dp/B0CSLCRCXS/ref=sr_1_2?dib=eyJ2IjoiMSJ9.z9UPutrfnYC69BceKt1hGlA0-erLwU4PG7_5R4xyslKvt7yYcci4IKluyVLN-umtPVWTPfBZqwNXfPoGzLWCPyxZbjvJ3Amp591NZqmH3erIVFDgpBMfpIhIFVQj8_cuMaR8bDKk_dro3oGqcNG4EnRnooaOnrGDPnoYt_grry0f6bPGUPlPb-_H0vhlzEC0_AhTu8bJ6vmEbhzCSo-G64MrA790OSpvGKGe3ABSzPvjwZYXXDZ046tR6dLAPS5ejmlM3FEAm7EigmVSfR39Q2hk9vpyCLo3dnZZmVxvs_c.-NH7HG20EU9ST7cexnIuYpv1qKgVo0_EZdGqid90KVo&dib_tag=se&keywords=casa%2Bdomo%2Bespelho&qid=1719350386&sr=8-2&ufe=app_do%3Aamzn1.fos.4bb5663b-6f7d-4772-84fa-7c7f565ec65b&th=1'
-    },
-    {
       title: 'Jarra de vidro',
       foto: "https://m.media-amazon.com/images/I/715sQGCzGjL._AC_SL1500_.jpg",
-      url: 'https://www.amazon.com.br/Wincy-Jarra-Vidro-Cromada-VDA11046/dp/B09R82XT4V/ref=sr_1_5?crid=3MVF5K234Y84H&dib=eyJ2IjoiMSJ9.CDcFHWOl6RBdXivbiVLZnSrGo4JXO6oOA5UbCjzR4XVDdvvAXcXHnS_iuEuZWo373mvsqbJJCLanNPLTD-ksQx7R3v5Ets1kmfci1mwkv-WxyxJPRV0l0F0nEpTXSI5G34hUZVvQfzNBmWm8mN57EEDJ5bEkqZEGMB0WtLW9YSV5Y0oTi-89QfqlroLMqI_XpY9dst8YLKDuaN2RppVktxLzK8amhG58VF3xUxE7kBhJq7pYIKmt5UrE3o2asZE6Qcfb8WPG_-uStR5uvvAFHEb9OyEEhBGlCfaPAO-znBM.KnImSz_5PxGqsw2NoT3P4yiTuWzjFcjHlwojuAdxo2k&dib_tag=se&keywords=jarra+de+suco&qid=1719350475&sprefix=jarro+%2Caps%2C190&sr=8-5'
+      url: 'https://www.amazon.com.br/Wincy-Jarra-Vidro-Cromada-VDA11046/dp/B09R82XT4V/ref=sr_1_5?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=344932FP8M553&dib=eyJ2IjoiMSJ9.CDcFHWOl6RBdXivbiVLZnZhl7y-ynOeCCnNa4xkdF5QWU5e2qoYA0Ri4vnTNl7ZF_zxy48wLWJCVlNKos3zOqmlU2K-IpetcpDucshz8PUPUw0Qfeq5PyNyWQ-Lmda3FxpMftqaFPxDAuLfi9V-CY9SuLybenSfOLNYh1v2wQQi_MhD0dw-c8M5fuldDBcKve_m-rf1GT8uLvZk50g3eoXQqVz_W2hh8ol5tmuM9dMqLjIE4JV3eK6cE1zwUoCQ1Altvr3nq6xpElb4cRzyfcxTqWTXwmbcTYkN_G48VivA.aRyq0cTuruiJP4AOmuTcK8jx1PH9ciHKuzf85FOoyn4&dib_tag=se&keywords=jarra+de+vidro&qid=1725850655&sprefix=jarra+de+vid%2Caps%2C206&sr=8-5'
     },
     {
       title: 'Tabua de cortar',
       foto: "https://m.media-amazon.com/images/I/61P1w5oCmzL._AC_SL1200_.jpg",
-      url: 'https://www.amazon.com.br/T%C3%A1buas-Teca-Suporte-Organizador-Stolf/dp/B08VRP737Y/ref=asc_df_B08VRP737Y/?tag=googleshopp00-20&linkCode=df0&hvadid=405263819486&hvpos=&hvnetw=g&hvrand=8393475656483584909&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1001729&hvtargid=pla-1209365709496&psc=1&mcid=06b367fa4bc734f7b6ebddc223e4dbff'
+      url: 'https://www.amazon.com.br/T%C3%A1buas-Teca-Suporte-Organizador-Stolf/dp/B08VRP737Y/ref=sr_1_7?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=26Y1HYISAODQZ&dib=eyJ2IjoiMSJ9.8nil0ip8ih-1FA3MD4ayhWmFMFxTs6S_Cz4BaGrVtYocOn9j6hOKzGyllhNwQPHrWp1Oq-wjm3CeNtZyCiGej6UYixSMLkXAJGUciqcY-akMXP_S0EDIrTh9K9HMco-EAMHCS3MkUl6zcit6d7p1VwIlAp4dUptixLBEQ-ubpFTO6HHV9DEZw6OBx-H9pYHLtO5oa5Wm1mV83Q5E7_0Cg55UbtPxHKWqXgaplZ8-9p4-W_y8ORQfEQz7BnHcTxY1n6LBWfNYk9LtJ_VA-1LSRRsh3mLAZ8unyziOPtgcBwo.UPDrii6GsGQ6OS0cWnATw-VlFcGHSTuP7lvom28VFec&dib_tag=se&keywords=tabua&qid=1725850701&sprefix=tab%2Caps%2C188&sr=8-7&ufe=app_do%3Aamzn1.fos.6d798eae-cadf-45de-946a-f477d47705b9'
     }
   ]);
 
