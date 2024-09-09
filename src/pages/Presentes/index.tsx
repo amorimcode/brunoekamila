@@ -18,12 +18,6 @@ const Presentes = () => {
   };
   const [posts, setPosts] = useState<any>([
     {
-      foto: "https://m.media-amazon.com/images/I/61Pr0fMMh1L._AC_SL1000_.jpg",
-      title: "Jogo de Facas",
-      description: "R$ 699,99",
-      link: "https://www.amazon.com.br/Facas-Pe%C3%A7as-Tramontina-Plenus-23498015/dp/B076MKTNRK/ref=asc_df_B0772XQ7XQ/?tag=googleshopp00-20&linkCode=df0&hvadid=379714275348&hvpos=&hvnetw=g&hvrand=1085407482333365417&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1001729&hvtargid=pla-810029703099&mcid=489a8a8488fe3153af6a5bc2f434484d&th=1",
-    },
-    {
       foto: "https://m.media-amazon.com/images/I/51aMLR56W1S._AC_SL1000_.jpg",
       title: "Aparelho de Jantar 20 Peças Roma Branco",
       description: "R$ 699,99",
@@ -34,12 +28,6 @@ const Presentes = () => {
       title: "Jogo de Copos Nadir Figueiredo Lights Drink 410ml 12 Peças",
       description: "R$ 55,99",
       link: "https://www.amazon.com.br/Copos-Lights-Drink-410ml-Nadir/dp/B07PP8FMTY/ref=asc_df_B07PP8FMTY/?tag=googleshopp00-20&linkCode=df0&hvadid=379685432142&hvpos=&hvnetw=g&hvrand=13094017039981043948&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1001729&hvtargid=pla-926667362852&psc=1&mcid=d882b9d277f63f208f69c137c2083102",
-    },
-    {
-      foto: "https://m.media-amazon.com/images/I/81ubjq2DfxL._AC_SL1500_.jpg",
-      title: "Panela de Pressão Tramontina Vancouver Alumínio 4,5 Litros",
-      description: "R$ 189,91",
-      link: "https://www.amazon.com.br/Tramontina-Vancouver-Alum%C3%ADnio-Revestimento-Antiaderente/dp/B0CD4SCM33/ref=asc_df_B0CD4SCM33/?tag=googleshopp00-20&linkCode=df0&hvadid=647429706147&hvpos=&hvnetw=g&hvrand=5549170002979248470&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1001729&hvtargid=pla-2201893611338&mcid=d2e86ca0b4bc30358a5dc5573bbe2b22&th=1",
     },
     {
       foto: "https://m.media-amazon.com/images/I/61EDp631OLL._AC_SL1000_.jpg",
@@ -54,18 +42,6 @@ const Presentes = () => {
       link: "https://www.amazon.com.br/Sanduicheira-ondulada-el%C3%A9trico-Electrolux-antiaderente/dp/B0CCBYBPPQ/ref=asc_df_B0CCBYBPPQ/?tag=googleshopp00-20&linkCode=df0&hvadid=675730870792&hvpos=&hvnetw=g&hvrand=1728106102672376401&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1001729&hvtargid=pla-2244241595902&mcid=d92cea5236f6353585a97e6af024134e&th=1",
     },
     {
-      foto: "https://m.media-amazon.com/images/I/81gd5mHT2NL._AC_SL1500_.jpg",
-      title: "Ventilador de Mesa Mondial Turbo 40cm VTX-40-8P 3 Velocidades",
-      description: "R$ 189,90",
-      link: "https://www.amazon.com.br/Ventilador-Turbo-Velocidades-Mondial-VTX-40-8P/dp/B07YL7P5XY/ref=asc_df_B07YL7P5XY/?tag=googleshopp00-20&linkCode=df0&hvadid=379720649038&hvpos=&hvnetw=g&hvrand=13667427652532073244&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1001729&hvtargid=pla-847430805973&mcid=4c0e5a5deddb3dfdaed909c16ade05bf&th=1",
-    },
-    {
-      foto: "https://m.media-amazon.com/images/I/41nMVp8b13S._SL1000_.jpg",
-      title: "Filtro de Água PURIFICADOR DE ÁGUA PURE4X PE12G BIVOLT",
-      description: "R$ 599,00",
-      link: "https://www.amazon.com.br/PURIFICADOR-%C3%81GUA-PURE4X-PE12G-BIVOLT/dp/B08X5Z81LK/ref=asc_df_B08X66RQ48/?tag=googleshopp00-20&linkCode=df0&hvadid=457277241281&hvpos=&hvnetw=g&hvrand=835743660782390111&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1001729&hvtargid=pla-1188621312704&mcid=5a1a0394a62833f99192eabcd17f6a62&th=1",
-    },
-    {
       foto: "https://m.media-amazon.com/images/I/41azTQkW5cL._AC_SL1200_.jpg",
       title: "Tabua de passar",
       description: "R$ 599,00",
@@ -76,11 +52,6 @@ const Presentes = () => {
       title: "Pillow Top",
       description: "R$ 599,00",
       link: "https://www.amazon.com.br/Pillow-Toque-Pluma-Casal-espessura/dp/B0C47C86RR/ref=asc_df_B0C47C86RR/?tag=googleshopp00-20&linkCode=df0&hvadid=647426883978&hvpos=&hvnetw=g&hvrand=12473129598056628829&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9100335&hvtargid=pla-2204922063812&psc=1&mcid=24747e5b522c34a78a411ceac5ee95e8#customerReviews",
-    },
-    {
-      foto: "https://m.media-amazon.com/images/I/61a64NePxQS._AC_SL1200_.jpg",
-      title: 'Escorredor de Louças',
-      url: 'https://www.amazon.com.br/Escorredor-Pratos-Porta-Talheres-Inox/dp/B0786TZMTH/ref=asc_df_B0786TZMTH/?tag=googleshopp00-20&linkCode=df0&hvadid=379816330550&hvpos=&hvnetw=g&hvrand=6923050339492184368&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9100335&hvtargid=pla-815190436292&psc=1&mcid=69ff8567da3d38aa97885ed15a6dc52a'
     },
     {
       title: 'Organizador de Geladeira',
@@ -101,16 +72,6 @@ const Presentes = () => {
       title: 'Kit travesseiro',
       foto: "https://m.media-amazon.com/images/I/61M5fjeKWpL._AC_SL1200_.jpg",
       url: 'https://www.amazon.com.br/Kit-Travesseiro-Pe%C3%A7as-Percal-Fios/dp/B076PL3G89/ref=asc_df_B076PL3G89/?tag=googleshopp00-20&linkCode=df0&hvadid=379720772128&hvpos=&hvnetw=g&hvrand=10782962139143374491&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1001729&hvtargid=pla-836223934257&psc=1&mcid=f81c6189036939c2846b9f680237c774'
-    },
-    {
-      title: 'Cabides de madeira maciça',
-      foto: "https://m.media-amazon.com/images/I/81LnYLK5v+L._AC_SL1500_.jpg",
-      url: 'https://www.amazon.com.br/Cabides-para-Terno-Madeira-S%C3%B3lida/dp/B09RQ1X9DG/ref=asc_df_B09RQ1X9DG/?tag=googleshopp00-20&linkCode=df0&hvadid=379725476299&hvpos=&hvnetw=g&hvrand=10520428875965645672&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1001729&hvtargid=pla-1637394179166&psc=1&mcid=c4140f3161383c88aa109c199b92f51a'
-    },
-    {
-      title: 'Cesto de roupas',
-      foto: "https://m.media-amazon.com/images/I/71VkDPv0+XL._AC_SL1500_.jpg",
-      url: 'https://www.amazon.com.br/Redondo-Retangular-Banheiro-Lavanderia-Forrado/dp/B0D1RSVW1W/ref=asc_df_B0D1RKSBM6/?tag=googleshopp00-20&linkCode=df0&hvadid=647405851320&hvpos=&hvnetw=g&hvrand=4601906378263327794&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1001729&hvtargid=pla-2300348620495&mcid=ba6834265c3b372999d79890a19135bb&t'
     },
     {
       title: 'Toalhas de banho',
@@ -141,12 +102,7 @@ const Presentes = () => {
       title: 'Tabua de cortar',
       foto: "https://m.media-amazon.com/images/I/61P1w5oCmzL._AC_SL1200_.jpg",
       url: 'https://www.amazon.com.br/T%C3%A1buas-Teca-Suporte-Organizador-Stolf/dp/B08VRP737Y/ref=asc_df_B08VRP737Y/?tag=googleshopp00-20&linkCode=df0&hvadid=405263819486&hvpos=&hvnetw=g&hvrand=8393475656483584909&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1001729&hvtargid=pla-1209365709496&psc=1&mcid=06b367fa4bc734f7b6ebddc223e4dbff'
-    },
-    {
-      title: 'Mixer',
-      foto: "https://m.media-amazon.com/images/I/711xy6JhdXL._AC_SL1500_.jpg",
-      url: 'https://www.amazon.com.br/Electrolux-4011AHBR407-Mixer-EIB10/dp/B09B2M8N4T/ref=asc_df_B09B2M8N4T/?tag=googleshopp00-20&linkCode=df0&hvadid=455483639906&hvpos=&hvnetw=g&hvrand=17852786299648926179&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1001729&hvtargid=pla-1416833357664&mcid=3fb019560064391ab1a1d5365c365039&th=1'
-    },
+    }
   ]);
 
 
