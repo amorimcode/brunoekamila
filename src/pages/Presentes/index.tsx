@@ -36,12 +36,6 @@ const Presentes = () => {
       link: "https://www.amazon.com.br/Conjunto-Sobremesa-Pe%C3%A7as-Cancun-Ruvolo/dp/B078BMGZ6J/ref=asc_df_B078BMGZ6J/?tag=googleshopp00-20&linkCode=df0&hvadid=379816330550&hvpos=&hvnetw=g&hvrand=12986771712994326610&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1001729&hvtargid=pla-892441309864&psc=1&mcid=697cae12a9f83ff1a23b4fff901b2252",
     },
     {
-      foto: "https://m.media-amazon.com/images/I/41azTQkW5cL._AC_SL1200_.jpg",
-      title: "Tabua de passar",
-      description: "R$ 599,00",
-      link: "https://www.amazon.com.br/PASSAR-EXTRA-FORTE-PASSA-MANGAS/dp/B09BWYSNPY/ref=asc_df_B09BWYSNPY/?tag=googleshopp00-20&linkCode=df0&hvadid=379773097631&hvpos=&hvnetw=g&hvrand=13089944302423642110&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9100335&hvtargid=pla-1456287705521&psc=1&mcid=484de34bd7013da598e364f8fcbae5d5",
-    },
-    {
       foto: "https://m.media-amazon.com/images/I/711d1QmQM4L._AC_SL1500_.jpg",
       title: "Pillow Top",
       description: "R$ 599,00",
@@ -56,11 +50,6 @@ const Presentes = () => {
       title: 'Pote Hermetico',
       foto: "https://m.media-amazon.com/images/I/519ZH-Fhc1L._AC_SL1000_.jpg",
       url: 'https://www.amazon.com.br/Kit-Potes-Herm%C3%A9ticos-Pl%C3%A1stico-Electrolux/dp/B09XJL4B9H/ref=sr_1_5?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=3K29RQXDY2KJT&dib=eyJ2IjoiMSJ9.AXSNal2bQPawx3ZbYkw93QTF1bnKnEhqB_oWd-rl3ssa_Eqipo35VIh8XctXl9VMV9E6F6ucKcen8gyj-SGk1zDnPqn8W1YCWj85wAjsISHcaP8sGfKlXUv0hrm7ES7MxI8_w9y7-XXAo3jxaNSZDWkyYd0cc39CYUscHv97EVxRLWv5Rns1FfTr9hu0iugH1xan50yWIRJhxxYkP7S5scBD4O_pt86IqAxo6wt72bdSC_3kdlGH8MMGRlG58EC7ze_UalQy_uhmSbjQp2FeE89jvwALi1BRDKLZ1mxm6Kw.WNb_2Xoc20JOzAlohyFrhUNaTJb-L03NMi0ukFoj3Zk&dib_tag=se&keywords=pote%2Bhermetico&qid=1725850993&sprefix=pote%2Bhermeti%2Caps%2C193&sr=8-5&ufe=app_do%3Aamzn1.fos.6d798eae-cadf-45de-946a-f477d47705b9&th=1'
-    },
-    {
-      title: 'Porta Tempero',
-      foto: "https://m.media-amazon.com/images/I/61OG7XRQh5L._AC_SL1200_.jpg",
-      url: 'https://www.amazon.com.br/Porta-Tempero-Condimento-Giratorio-Cozinha/dp/B08L5M5V6H/ref=sr_1_7?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=1KJAVLQT58SIY&dib=eyJ2IjoiMSJ9.NEEf2bXsNuRd1AAE7OZ6HeqQtkKr_yaQ_hEBnZyibTCxhafLoeAm2I10ngR7z4IuhzGh6xrrh5Rs8SyCIXe1TwAmItfgGNTfHJX9UJgb8VucMrkffTaNWDehYI1nifJcf1qUDbMoIiWOQIHk3CRsKce2M4FXTybfiqiDLRw0g0p0KBoupZCQ-EjXNWD1MoyELljxl3RuD3CL5soZR29ExdFyedvpGplX21qL_PY6k4nU4ayAk8K-QqkgQNy-YqTnqwCmc2c08pFx8m98aejSczXro7TlI9mq2fIb22XDPyI.FyhUC3VeJH8HHEKDysiYOclSa1l41pAR_HdDWEHhbms&dib_tag=se&keywords=porta+tempero&qid=1725851107&sprefix=porta+temp%2Caps%2C192&sr=8-7&ufe=app_do%3Aamzn1.fos.a492fd4a-f54d-4e8d-8c31-35e0a04ce61e'
     },
     {
       title: 'Kit travesseiro',
